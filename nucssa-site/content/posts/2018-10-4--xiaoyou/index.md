@@ -1,6 +1,6 @@
 ---
-title: I like nonsense, it wakes up the brain cells
-category: "testimonies"
+title: 校友经验分享会
+category: "活动"
 cover: photo-1465070845512-2b2dbdc6df66.jpg
 author: greg lobinski
 ---

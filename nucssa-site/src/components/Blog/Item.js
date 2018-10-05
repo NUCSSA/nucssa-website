@@ -23,7 +23,6 @@ const Item = props => {
       }
     }
   } = props;
-
   return (
     <React.Fragment>
       <li>

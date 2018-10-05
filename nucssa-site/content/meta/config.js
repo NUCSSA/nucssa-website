@@ -10,8 +10,8 @@ module.exports = {
   authorName: "NUCSSA",
   authorTwitterAccount: "greglobinski",
   // info
-  headerTitle: "greg lobinski",
-  headerSubTitle: "presents another one GatsbyJS starter",
+  headerTitle: "NUCSSA",
+  headerSubTitle: "美国东北大学中国学生会",
   // manifest.json
   manifestName: "HeroBlog - a GatsbyJS starter",
   manifestShortName: "HeroBlog", // max 12 characters
