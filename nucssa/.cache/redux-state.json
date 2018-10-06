@@ -1,0 +1,3068 @@
+{
+  "nodes": {
+    "SitePage /dev-404-page/": {
+      "layout": "index",
+      "jsonName": "dev-404-page.json",
+      "internalComponentName": "ComponentDev404Page",
+      "path": "/dev-404-page/",
+      "component": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "context": {
+        "_PARENT": "SOURCE"
+      },
+      "updatedAt": 1538341240121,
+      "pluginCreator___NODE": "Plugin dev-404-page",
+      "pluginCreatorId": "Plugin dev-404-page",
+      "componentPath": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/.cache/dev-404-page.js",
+      "id": "SitePage /dev-404-page/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "a2d7785324f15da5836f7df0c51c3eb4",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin component-page-creator": {
+      "resolve": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "id": "Plugin component-page-creator",
+      "name": "component-page-creator",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": [],
+        "_PARENT": "SOURCE"
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "pluginFilepath": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "packageJson": {
+        "name": "component-page-creator",
+        "description": "An internal Gatsby plugin that creates pages from component files in src/pages",
+        "version": "1.0.0",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": [],
+        "_PARENT": "SOURCE"
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "fc791dc8718329cf4aca56f7736fac0d",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin component-layout-creator": {
+      "resolve": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "id": "Plugin component-layout-creator",
+      "name": "component-layout-creator",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": [],
+        "_PARENT": "SOURCE"
+      },
+      "nodeAPIs": [
+        "createLayouts"
+      ],
+      "pluginFilepath": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "packageJson": {
+        "name": "component-layout-creator",
+        "description": "An internal Gatsby plugin that creates pages from component files in src/layouts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": [],
+        "_PARENT": "SOURCE"
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "ac9582cabfb880dae6dd1579156c1400",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin internal-data-bridge": {
+      "resolve": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "id": "Plugin internal-data-bridge",
+      "name": "internal-data-bridge",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": [],
+        "_PARENT": "SOURCE"
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "onCreatePage"
+      ],
+      "pluginFilepath": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "packageJson": {
+        "name": "internal-data-bridge",
+        "description": "An internal Gatsby plugin which creates data nodes from internal data",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": [],
+        "_PARENT": "SOURCE"
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "45cc717f07a3aa6c2f67e1e163d68b14",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin dev-404-page": {
+      "resolve": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "id": "Plugin dev-404-page",
+      "name": "dev-404-page",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": [],
+        "_PARENT": "SOURCE"
+      },
+      "nodeAPIs": [
+        "createPages"
+      ],
+      "pluginFilepath": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "packageJson": {
+        "name": "dev-404-page",
+        "description": "Internal plugin to add a 404 page in development with helpful information",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": [],
+        "_PARENT": "SOURCE"
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "0f51aadd38cd5afe05e19c2477990a24",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin prod-404": {
+      "resolve": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "id": "Plugin prod-404",
+      "name": "prod-404",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": [],
+        "_PARENT": "SOURCE"
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "pluginFilepath": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "packageJson": {
+        "name": "prod-404",
+        "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": [],
+        "_PARENT": "SOURCE"
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "f4b3c16d283d2112a752a4038bc4db6d",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin query-runner": {
+      "resolve": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "id": "Plugin query-runner",
+      "name": "query-runner",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": [],
+        "_PARENT": "SOURCE"
+      },
+      "nodeAPIs": [
+        "onCreatePage",
+        "onCreateLayout"
+      ],
+      "pluginFilepath": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "packageJson": {
+        "name": "query-runner",
+        "description": "Internal plugin for running queries",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": [],
+        "_PARENT": "SOURCE"
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "d8ecf1d2d9b86b234bcf5b59768b061a",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-source-filesystem": {
+      "resolve": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/node_modules/gatsby-source-filesystem",
+      "id": "Plugin gatsby-source-filesystem",
+      "name": "gatsby-source-filesystem",
+      "version": "1.5.7",
+      "pluginOptions": {
+        "plugins": [],
+        "name": "data",
+        "path": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data",
+        "_PARENT": "SOURCE"
+      },
+      "nodeAPIs": [
+        "sourceNodes"
+      ],
+      "pluginFilepath": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/node_modules/gatsby-source-filesystem",
+      "packageJson": {
+        "name": "gatsby-source-filesystem",
+        "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
+        "version": "1.5.7",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com",
+          "_PARENT": "SOURCE"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.1",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "got",
+            "version": "^7.1.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "md5-file",
+            "version": "^3.1.1",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "mime",
+            "version": "^1.3.6",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "pretty-bytes",
+            "version": "^4.0.2",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "valid-url",
+            "version": "^1.0.9",
+            "_PARENT": "SOURCE"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "cross-env",
+            "version": "^5.0.5",
+            "_PARENT": "SOURCE"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": [],
+        "_PARENT": "SOURCE"
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "794092c08733631d41ae7016c4c7ac94",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-google-analytics": {
+      "resolve": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/node_modules/gatsby-plugin-google-analytics",
+      "id": "Plugin gatsby-plugin-google-analytics",
+      "name": "gatsby-plugin-google-analytics",
+      "version": "1.0.11",
+      "pluginOptions": {
+        "plugins": [],
+        "trackingId": "YOUR_GOOGLE_ANALYTICS_TRACKING_ID",
+        "head": false,
+        "anonymize": true,
+        "respectDNT": true,
+        "_PARENT": "SOURCE"
+      },
+      "nodeAPIs": [],
+      "pluginFilepath": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/node_modules/gatsby-plugin-google-analytics",
+      "packageJson": {
+        "name": "gatsby-plugin-google-analytics",
+        "description": "Gatsby plugin to add google analytics onto a site",
+        "version": "1.0.11",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "google analytics"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com",
+          "_PARENT": "SOURCE"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0",
+            "_PARENT": "SOURCE"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5",
+            "_PARENT": "SOURCE"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": [],
+        "_PARENT": "SOURCE"
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "eb59984d3fa54c47df88623c05de67a4",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-transformer-remark": {
+      "resolve": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/node_modules/gatsby-transformer-remark",
+      "id": "Plugin gatsby-transformer-remark",
+      "name": "gatsby-transformer-remark",
+      "version": "1.7.19",
+      "pluginOptions": {
+        "plugins": [
+          {
+            "resolve": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/node_modules/gatsby-remark-images",
+            "id": "Plugin gatsby-remark-images",
+            "name": "gatsby-remark-images",
+            "version": "1.5.30",
+            "pluginOptions": {
+              "plugins": [],
+              "maxWidth": 690,
+              "backgroundColor": "#f7f0eb",
+              "_PARENT": "SOURCE",
+              "wrapperStyle": "",
+              "linkImagesToOriginal": true,
+              "pathPrefix": ""
+            },
+            "nodeAPIs": [],
+            "_PARENT": "SOURCE",
+            "pluginFilepath": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/node_modules/gatsby-remark-images"
+          },
+          {
+            "resolve": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/node_modules/gatsby-remark-prismjs",
+            "id": "Plugin gatsby-remark-prismjs",
+            "name": "gatsby-remark-prismjs",
+            "version": "1.2.9",
+            "pluginOptions": {
+              "plugins": [],
+              "_PARENT": "SOURCE"
+            },
+            "nodeAPIs": [],
+            "_PARENT": "SOURCE",
+            "pluginFilepath": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/node_modules/gatsby-remark-prismjs"
+          },
+          {
+            "resolve": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/node_modules/gatsby-remark-copy-linked-files",
+            "id": "Plugin gatsby-remark-copy-linked-files",
+            "name": "gatsby-remark-copy-linked-files",
+            "version": "1.5.16",
+            "pluginOptions": {
+              "plugins": [],
+              "_PARENT": "SOURCE",
+              "ignoreFileExtensions": [
+                "png",
+                "jpg",
+                "jpeg",
+                "bmp",
+                "tiff"
+              ]
+            },
+            "nodeAPIs": [],
+            "_PARENT": "SOURCE",
+            "pluginFilepath": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/node_modules/gatsby-remark-copy-linked-files"
+          },
+          {
+            "resolve": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/node_modules/gatsby-remark-autolink-headers",
+            "id": "Plugin gatsby-remark-autolink-headers",
+            "name": "gatsby-remark-autolink-headers",
+            "version": "1.4.7",
+            "pluginOptions": {
+              "plugins": [],
+              "_PARENT": "SOURCE"
+            },
+            "nodeAPIs": [],
+            "_PARENT": "SOURCE",
+            "pluginFilepath": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/node_modules/gatsby-remark-autolink-headers"
+          }
+        ],
+        "_PARENT": "SOURCE"
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "pluginFilepath": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/node_modules/gatsby-transformer-remark",
+      "packageJson": {
+        "name": "gatsby-transformer-remark",
+        "description": "Gatsby transformer plugin for Markdown using the Remark library and ecosystem",
+        "version": "1.7.19",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "markdown",
+          "remark"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com",
+          "_PARENT": "SOURCE"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "gray-matter",
+            "version": "^2.1.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "hast-util-to-html",
+            "version": "^3.0.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "mdast-util-to-hast",
+            "version": "^2.4.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "mdast-util-toc",
+            "version": "^2.0.1",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "remark",
+            "version": "^7.0.1",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "remark-parse",
+            "version": "^4.0.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "remark-retext",
+            "version": "^3.1.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "remark-stringify",
+            "version": "^4.0.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "retext-english",
+            "version": "^3.0.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "sanitize-html",
+            "version": "^1.14.1",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "underscore.string",
+            "version": "^3.3.4",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "unified",
+            "version": "^6.1.5",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "unist-util-select",
+            "version": "^1.5.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.1.1",
+            "_PARENT": "SOURCE"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "babel-plugin-transform-object-rest-spread",
+            "version": "^6.20.2",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5",
+            "_PARENT": "SOURCE"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": [],
+        "_PARENT": "SOURCE"
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "d6e0c97368c056bc08a30e1dcb0f3318",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-remark-images": {
+      "resolve": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/node_modules/gatsby-remark-images",
+      "id": "Plugin gatsby-remark-images",
+      "name": "gatsby-remark-images",
+      "version": "1.5.30",
+      "pluginOptions": {
+        "plugins": [],
+        "maxWidth": 690,
+        "backgroundColor": "#f7f0eb",
+        "_PARENT": "SOURCE",
+        "wrapperStyle": "",
+        "linkImagesToOriginal": true,
+        "pathPrefix": ""
+      },
+      "nodeAPIs": [],
+      "_PARENT": "SOURCE",
+      "pluginFilepath": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/node_modules/gatsby-remark-images",
+      "packageJson": {
+        "name": "gatsby-remark-images",
+        "description": "Processes images in markdown so they can be used in the production build.",
+        "version": "1.5.30",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "markdown",
+          "remark",
+          "image",
+          "responsive images"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com",
+          "_PARENT": "SOURCE"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "cheerio",
+            "version": "^1.0.0-rc.2",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^1.6.19",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "is-relative-url",
+            "version": "^2.0.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "unist-util-select",
+            "version": "^1.5.0",
+            "_PARENT": "SOURCE"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5",
+            "_PARENT": "SOURCE"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": [],
+        "_PARENT": "SOURCE"
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "ea2046516234022893b15433d3656f4a",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-remark-prismjs": {
+      "resolve": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/node_modules/gatsby-remark-prismjs",
+      "id": "Plugin gatsby-remark-prismjs",
+      "name": "gatsby-remark-prismjs",
+      "version": "1.2.9",
+      "pluginOptions": {
+        "plugins": [],
+        "_PARENT": "SOURCE"
+      },
+      "nodeAPIs": [],
+      "_PARENT": "SOURCE",
+      "pluginFilepath": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/node_modules/gatsby-remark-prismjs",
+      "packageJson": {
+        "name": "gatsby-remark-prismjs",
+        "description": "Adds syntax highlighting to code blocks at build time using PrismJS",
+        "version": "1.2.9",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "prismjs",
+          "remark"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com",
+          "_PARENT": "SOURCE"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "parse-numeric-range",
+            "version": "^0.0.2",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "prismjs",
+            "version": "^1.7.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.1.1",
+            "_PARENT": "SOURCE"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "remark",
+            "version": "^7.0.1",
+            "_PARENT": "SOURCE"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": [],
+        "_PARENT": "SOURCE"
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "13c55f706800aaaf9042788d6c0cc91d",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-remark-copy-linked-files": {
+      "resolve": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/node_modules/gatsby-remark-copy-linked-files",
+      "id": "Plugin gatsby-remark-copy-linked-files",
+      "name": "gatsby-remark-copy-linked-files",
+      "version": "1.5.16",
+      "pluginOptions": {
+        "plugins": [],
+        "_PARENT": "SOURCE",
+        "ignoreFileExtensions": [
+          "png",
+          "jpg",
+          "jpeg",
+          "bmp",
+          "tiff"
+        ]
+      },
+      "nodeAPIs": [],
+      "_PARENT": "SOURCE",
+      "pluginFilepath": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/node_modules/gatsby-remark-copy-linked-files",
+      "packageJson": {
+        "name": "gatsby-remark-copy-linked-files",
+        "description": "Find files which are linked to from markdown and copy them to the public directory",
+        "version": "1.5.16",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "prismjs",
+          "remark"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com",
+          "_PARENT": "SOURCE"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "cheerio",
+            "version": "^1.0.0-rc.2",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.1",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "image-size",
+            "version": "^0.6.1",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "is-relative-url",
+            "version": "^2.0.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.1.1",
+            "_PARENT": "SOURCE"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5",
+            "_PARENT": "SOURCE"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": [],
+        "_PARENT": "SOURCE"
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "813996ad3fa614fd4415220c8c2c1cf8",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-remark-autolink-headers": {
+      "resolve": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/node_modules/gatsby-remark-autolink-headers",
+      "id": "Plugin gatsby-remark-autolink-headers",
+      "name": "gatsby-remark-autolink-headers",
+      "version": "1.4.7",
+      "pluginOptions": {
+        "plugins": [],
+        "_PARENT": "SOURCE"
+      },
+      "nodeAPIs": [],
+      "_PARENT": "SOURCE",
+      "pluginFilepath": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/node_modules/gatsby-remark-autolink-headers",
+      "packageJson": {
+        "name": "gatsby-remark-autolink-headers",
+        "description": "Gatsby plugin to autolink headers in markdown processed by Remark",
+        "version": "1.4.7",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "remark"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com",
+          "_PARENT": "SOURCE"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "github-slugger",
+            "version": "^1.1.1",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "mdast-util-to-string",
+            "version": "^1.0.2",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.1.1",
+            "_PARENT": "SOURCE"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5",
+            "_PARENT": "SOURCE"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": [],
+        "_PARENT": "SOURCE"
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "ebd5c71b62cf22a2f450d03c7cbf492c",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-transformer-sharp": {
+      "resolve": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/node_modules/gatsby-transformer-sharp",
+      "id": "Plugin gatsby-transformer-sharp",
+      "name": "gatsby-transformer-sharp",
+      "version": "1.6.13",
+      "pluginOptions": {
+        "plugins": [],
+        "_PARENT": "SOURCE"
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType",
+        "onPreExtractQueries"
+      ],
+      "pluginFilepath": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/node_modules/gatsby-transformer-sharp",
+      "packageJson": {
+        "name": "gatsby-transformer-sharp",
+        "description": "Gatsby transformer plugin for images using Sharp",
+        "version": "1.6.13",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "sharp",
+          "image"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com",
+          "_PARENT": "SOURCE"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.2",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "image-size",
+            "version": "^0.6.0",
+            "_PARENT": "SOURCE"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5",
+            "_PARENT": "SOURCE"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": [],
+        "_PARENT": "SOURCE"
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "dfc32e07519a385c8a1601f03c904d4c",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-sharp": {
+      "resolve": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/node_modules/gatsby-plugin-sharp",
+      "id": "Plugin gatsby-plugin-sharp",
+      "name": "gatsby-plugin-sharp",
+      "version": "1.6.19",
+      "pluginOptions": {
+        "plugins": [],
+        "_PARENT": "SOURCE"
+      },
+      "nodeAPIs": [],
+      "pluginFilepath": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/node_modules/gatsby-plugin-sharp",
+      "packageJson": {
+        "name": "gatsby-plugin-sharp",
+        "description": "Wrapper of the Sharp image manipulation library for Gatsby plugins",
+        "version": "1.6.19",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "image",
+          "sharp"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com",
+          "_PARENT": "SOURCE"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "async",
+            "version": "^2.1.2",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "image-size",
+            "version": "^0.5.1",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "imagemin",
+            "version": "^5.2.2",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "imagemin-pngquant",
+            "version": "^5.0.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "imagemin-webp",
+            "version": "^4.0.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "potrace",
+            "version": "^2.1.1",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "progress",
+            "version": "^1.1.8",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.17.3",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "svgo",
+            "version": "^0.7.2",
+            "_PARENT": "SOURCE"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5",
+            "_PARENT": "SOURCE"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": [],
+        "_PARENT": "SOURCE"
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "8c6eeabde31cb0eabd5c2c08b83bc78d",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-transformer-json": {
+      "resolve": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/node_modules/gatsby-transformer-json",
+      "id": "Plugin gatsby-transformer-json",
+      "name": "gatsby-transformer-json",
+      "version": "1.0.11",
+      "pluginOptions": {
+        "plugins": [],
+        "_PARENT": "SOURCE"
+      },
+      "nodeAPIs": [
+        "onCreateNode"
+      ],
+      "pluginFilepath": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/node_modules/gatsby-transformer-json",
+      "packageJson": {
+        "name": "gatsby-transformer-json",
+        "description": "Gatsby transformer plugin for JSON files",
+        "version": "1.0.11",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "json"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com",
+          "_PARENT": "SOURCE"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0",
+            "_PARENT": "SOURCE"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5",
+            "_PARENT": "SOURCE"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": [],
+        "_PARENT": "SOURCE"
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "00019881f191e457d5f1bcb111eba3e2",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-typescript": {
+      "resolve": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/node_modules/gatsby-plugin-typescript",
+      "id": "Plugin gatsby-plugin-typescript",
+      "name": "gatsby-plugin-typescript",
+      "version": "1.4.10",
+      "pluginOptions": {
+        "plugins": [],
+        "_PARENT": "SOURCE"
+      },
+      "nodeAPIs": [
+        "resolvableExtensions",
+        "modifyWebpackConfig",
+        "preprocessSource"
+      ],
+      "pluginFilepath": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/node_modules/gatsby-plugin-typescript",
+      "packageJson": {
+        "name": "gatsby-plugin-typescript",
+        "description": "Adds TypeScript support for Gatsby layouts and pages.",
+        "version": "1.4.10",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "typescript"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com",
+          "_PARENT": "SOURCE"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "ts-loader",
+            "version": "^2.0.3",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "typescript",
+            "version": "^2.2.1",
+            "_PARENT": "SOURCE"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5",
+            "_PARENT": "SOURCE"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": [],
+        "_PARENT": "SOURCE"
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "1a5af49247eef836499a4ad3c11029af",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-manifest": {
+      "resolve": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/node_modules/gatsby-plugin-manifest",
+      "id": "Plugin gatsby-plugin-manifest",
+      "name": "gatsby-plugin-manifest",
+      "version": "1.0.8",
+      "pluginOptions": {
+        "plugins": [],
+        "name": "Gatsby website",
+        "short_name": "Gatsby website",
+        "start_url": "/",
+        "background_color": "#f7f7f7",
+        "theme_color": "#191919",
+        "display": "minimal-ui",
+        "_PARENT": "SOURCE"
+      },
+      "nodeAPIs": [
+        "onPostBuild"
+      ],
+      "pluginFilepath": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/node_modules/gatsby-plugin-manifest",
+      "packageJson": {
+        "name": "gatsby-plugin-manifest",
+        "description": "Gatsby plugin which adds a manifest.json to make sites progressive web apps",
+        "version": "1.0.8",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "manifest.json",
+          "pwa",
+          "progressive-web-app"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com",
+          "_PARENT": "SOURCE"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0",
+            "_PARENT": "SOURCE"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5",
+            "_PARENT": "SOURCE"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": [],
+        "_PARENT": "SOURCE"
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "a9b0fa1c4932ef72cf2e047f47a0aae5",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-offline": {
+      "resolve": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/node_modules/gatsby-plugin-offline",
+      "id": "Plugin gatsby-plugin-offline",
+      "name": "gatsby-plugin-offline",
+      "version": "1.0.10",
+      "pluginOptions": {
+        "plugins": [],
+        "_PARENT": "SOURCE"
+      },
+      "nodeAPIs": [
+        "createPages",
+        "onPostBuild"
+      ],
+      "pluginFilepath": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/node_modules/gatsby-plugin-offline",
+      "packageJson": {
+        "name": "gatsby-plugin-offline",
+        "description": "Gatsby plugin which sets up a site to be able to run offline",
+        "version": "1.0.10",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "offline",
+          "precache",
+          "service-worker"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com",
+          "_PARENT": "SOURCE"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "sw-precache",
+            "version": "^5.0.0",
+            "_PARENT": "SOURCE"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5",
+            "_PARENT": "SOURCE"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": [],
+        "_PARENT": "SOURCE"
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "2fd5a905f961a4f305e034f6d30e1584",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin default-site-plugin": {
+      "resolve": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa",
+      "id": "Plugin default-site-plugin",
+      "name": "default-site-plugin",
+      "version": "90fc47653c32ab6474f5293f170d264d",
+      "pluginOptions": {
+        "plugins": [],
+        "_PARENT": "SOURCE"
+      },
+      "nodeAPIs": [
+        "modifyWebpackConfig",
+        "onCreateNode",
+        "createPages"
+      ],
+      "pluginFilepath": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa",
+      "packageJson": {
+        "name": "gatsby-starter",
+        "description": "Gatsby 1.0 starter",
+        "version": "1.0.0",
+        "keywords": [
+          "gatsby",
+          "starter"
+        ],
+        "author": "fabien0102 <fabien0102@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@types/lodash",
+            "version": "^4.14.63",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "@types/react",
+            "version": "^16.0.20",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "@types/react-dom",
+            "version": "^16.0.2",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "@types/react-helmet",
+            "version": "5.0.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "@types/react-redux",
+            "version": "^5.0.9",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "@types/react-router",
+            "version": "^4.0.14",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "@types/react-router-dom",
+            "version": "^4.0.8",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "babel-eslint",
+            "version": "^7.2.1",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "change-case",
+            "version": "^3.0.1",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "codeclimate-test-reporter",
+            "version": "^0.4.1",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "disqus-react",
+            "version": "^1.0.5",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "gatsby",
+            "version": "latest",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "gatsby-link",
+            "version": "latest",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "gatsby-plugin-glamor",
+            "version": "latest",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "gatsby-plugin-google-analytics",
+            "version": "latest",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "gatsby-plugin-manifest",
+            "version": "latest",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "gatsby-plugin-offline",
+            "version": "latest",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "latest",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "gatsby-plugin-typescript",
+            "version": "latest",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "gatsby-remark-autolink-headers",
+            "version": "latest",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "gatsby-remark-copy-linked-files",
+            "version": "latest",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "gatsby-remark-images",
+            "version": "latest",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "gatsby-remark-prismjs",
+            "version": "latest",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "gatsby-source-filesystem",
+            "version": "latest",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "gatsby-transformer-json",
+            "version": "latest",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "gatsby-transformer-remark",
+            "version": "latest",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "gatsby-transformer-sharp",
+            "version": "latest",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "graphql-code-generator",
+            "version": "^0.5.2",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "gray-matter",
+            "version": "^2.1.1",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "react",
+            "version": "^16.0.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "react-dom",
+            "version": "^16.0.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "react-helmet",
+            "version": "5.0.3",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "react-redux",
+            "version": "^5.0.6",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "redux-devtools-extension",
+            "version": "^2.13.2",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "semantic-ui-react",
+            "version": "^0.74.2",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "slash",
+            "version": "1.0.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "ts-loader",
+            "version": "^2.3.7",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "typescript",
+            "version": "2.5.3",
+            "_PARENT": "SOURCE"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@storybook/addon-actions",
+            "version": "^3.2.14",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "@storybook/addon-knobs",
+            "version": "^3.2.14",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "@storybook/addon-notes",
+            "version": "^3.2.10",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "@storybook/addon-options",
+            "version": "^3.2.14",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "@storybook/react",
+            "version": "^3.2.14",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "@types/enzyme",
+            "version": "^2.8.9",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "@types/jest",
+            "version": "^19.2.2",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "@types/node",
+            "version": "^7.0.15",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "@types/react-test-renderer",
+            "version": "^16.0.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "@types/storybook__addon-actions",
+            "version": "^3.0.1",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "@types/storybook__addon-knobs",
+            "version": "^3.2.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "@types/storybook__addon-notes",
+            "version": "^3.0.1",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "@types/storybook__addon-options",
+            "version": "^3.2.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "@types/storybook__react",
+            "version": "^3.0.5",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "@types/webpack-env",
+            "version": "^1.13.1",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "enzyme",
+            "version": "^3.0.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "enzyme-adapter-react-16",
+            "version": "^1.0.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "eslint-config-xo-react",
+            "version": "0.11.1",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "eslint-plugin-react",
+            "version": "6.10.3",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "flat",
+            "version": "^2.0.1",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "husky",
+            "version": "0.13.3",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "jest",
+            "version": "19.0.2",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "lint-staged",
+            "version": "3.4.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "mkdirp",
+            "version": "^0.5.1",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "plop",
+            "version": "^1.7.4",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "raw-loader",
+            "version": "^0.5.1",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "react-addons-test-utils",
+            "version": "^15.5.1",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "react-test-renderer",
+            "version": "16",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "remark-cli",
+            "version": "^3.0.1",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "remark-preset-lint-recommended",
+            "version": "^2.0.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "storybook-readme",
+            "version": "^3.0.6",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "stylelint",
+            "version": "^7.10.1",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "stylelint-config-standard",
+            "version": "^16.0.0",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "ts-jest",
+            "version": "19.0.8",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "ts-lint",
+            "version": "4.5.1",
+            "_PARENT": "SOURCE"
+          },
+          {
+            "name": "xo",
+            "version": "^0.18.1",
+            "_PARENT": "SOURCE"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": [],
+        "_PARENT": "SOURCE"
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "2865d03a86d52a02516de3175a135479",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Site": {
+      "siteMetadata": {
+        "title": "My website",
+        "googleVerification": "abcdefz",
+        "disqus": "gatsby-typescript",
+        "_PARENT": "SOURCE"
+      },
+      "port": "8000",
+      "host": "localhost",
+      "mapping": {
+        "MarkdownRemark.frontmatter.author": "AuthorJson",
+        "_PARENT": "SOURCE"
+      },
+      "pathPrefix": "",
+      "polyfill": true,
+      "buildTime": "2018-09-30T21:00:37.448Z",
+      "id": "Site",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "ba17d325f09aeb658f2cf6e7f2de7022",
+        "type": "Site",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data absPath of file": {
+      "id": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "49961416701efeeab649dc93312aebd3",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "data",
+      "absolutePath": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data",
+      "relativePath": "",
+      "extension": "",
+      "size": 160,
+      "prettySize": "160 B",
+      "modifiedTime": "2018-09-30T20:55:14.000Z",
+      "accessTime": "2018-09-30T21:00:39.705Z",
+      "changeTime": "2018-09-30T20:55:14.500Z",
+      "birthTime": "2018-09-30T20:53:07.000Z",
+      "root": "/",
+      "dir": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa",
+      "base": "data",
+      "ext": "",
+      "name": "data",
+      "relativeDirectory": "..",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 5,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 2646363,
+      "blocks": 0,
+      "atimeMs": 1538341239705.0256,
+      "mtimeMs": 1538340914000,
+      "ctimeMs": 1538340914500.3423,
+      "birthtimeMs": 1538340787000,
+      "atime": "2018-09-30T21:00:39.705Z",
+      "mtime": "2018-09-30T20:55:14.000Z",
+      "ctime": "2018-09-30T20:55:14.500Z",
+      "birthtime": "2018-09-30T20:53:07.000Z"
+    },
+    "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/avatars absPath of file": {
+      "id": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/avatars absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "55e5732009921f3ce9badd2a36ee3171",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "data",
+      "absolutePath": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/avatars",
+      "relativePath": "avatars",
+      "extension": "",
+      "size": 96,
+      "prettySize": "96 B",
+      "modifiedTime": "2018-09-30T20:55:14.000Z",
+      "accessTime": "2018-09-30T21:00:39.709Z",
+      "changeTime": "2018-09-30T20:55:14.587Z",
+      "birthTime": "2018-09-30T20:53:07.000Z",
+      "root": "/",
+      "dir": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data",
+      "base": "avatars",
+      "ext": "",
+      "name": "avatars",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 3,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 2646365,
+      "blocks": 0,
+      "atimeMs": 1538341239708.7446,
+      "mtimeMs": 1538340914000,
+      "ctimeMs": 1538340914587.1653,
+      "birthtimeMs": 1538340787000,
+      "atime": "2018-09-30T21:00:39.709Z",
+      "mtime": "2018-09-30T20:55:14.000Z",
+      "ctime": "2018-09-30T20:55:14.587Z",
+      "birthtime": "2018-09-30T20:53:07.000Z"
+    },
+    "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/blog absPath of file": {
+      "id": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/blog absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "fcf55379acaa9faca224cfe90423f153",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "data",
+      "absolutePath": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/blog",
+      "relativePath": "blog",
+      "extension": "",
+      "size": 160,
+      "prettySize": "160 B",
+      "modifiedTime": "2018-09-30T20:53:07.767Z",
+      "accessTime": "2018-09-30T21:00:39.709Z",
+      "changeTime": "2018-09-30T20:53:07.767Z",
+      "birthTime": "2018-09-30T20:53:07.680Z",
+      "root": "/",
+      "dir": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data",
+      "base": "blog",
+      "ext": "",
+      "name": "blog",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 5,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 2646367,
+      "blocks": 0,
+      "atimeMs": 1538341239708.7566,
+      "mtimeMs": 1538340787767.475,
+      "ctimeMs": 1538340787767.475,
+      "birthtimeMs": 1538340787679.5444,
+      "atime": "2018-09-30T21:00:39.709Z",
+      "mtime": "2018-09-30T20:53:07.767Z",
+      "ctime": "2018-09-30T20:53:07.767Z",
+      "birthtime": "2018-09-30T20:53:07.680Z"
+    },
+    "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/blog/2017-04-18--welcoming absPath of file": {
+      "id": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/blog/2017-04-18--welcoming absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "477b781e18621f21080cb0f3da04fb03",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "data",
+      "absolutePath": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/blog/2017-04-18--welcoming",
+      "relativePath": "blog/2017-04-18--welcoming",
+      "extension": "",
+      "size": 128,
+      "prettySize": "128 B",
+      "modifiedTime": "2018-09-30T20:53:07.680Z",
+      "accessTime": "2018-09-30T21:00:39.713Z",
+      "changeTime": "2018-09-30T20:53:07.680Z",
+      "birthTime": "2018-09-30T20:53:07.680Z",
+      "root": "/",
+      "dir": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/blog",
+      "base": "2017-04-18--welcoming",
+      "ext": "",
+      "name": "2017-04-18--welcoming",
+      "relativeDirectory": "blog",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 4,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 2646368,
+      "blocks": 0,
+      "atimeMs": 1538341239712.9663,
+      "mtimeMs": 1538340787679.9626,
+      "ctimeMs": 1538340787679.9626,
+      "birthtimeMs": 1538340787679.608,
+      "atime": "2018-09-30T21:00:39.713Z",
+      "mtime": "2018-09-30T20:53:07.680Z",
+      "ctime": "2018-09-30T20:53:07.680Z",
+      "birthtime": "2018-09-30T20:53:07.680Z"
+    },
+    "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/blog/2017-05-02--article-1 absPath of file": {
+      "id": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/blog/2017-05-02--article-1 absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "e3bc1e929c035019e0a0ba097c122cff",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "data",
+      "absolutePath": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/blog/2017-05-02--article-1",
+      "relativePath": "blog/2017-05-02--article-1",
+      "extension": "",
+      "size": 128,
+      "prettySize": "128 B",
+      "modifiedTime": "2018-09-30T20:53:07.751Z",
+      "accessTime": "2018-09-30T21:00:39.712Z",
+      "changeTime": "2018-09-30T20:53:07.751Z",
+      "birthTime": "2018-09-30T20:53:07.750Z",
+      "root": "/",
+      "dir": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/blog",
+      "base": "2017-05-02--article-1",
+      "ext": "",
+      "name": "2017-05-02--article-1",
+      "relativeDirectory": "blog",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 4,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 2646371,
+      "blocks": 0,
+      "atimeMs": 1538341239711.7388,
+      "mtimeMs": 1538340787750.5127,
+      "ctimeMs": 1538340787750.5127,
+      "birthtimeMs": 1538340787749.5713,
+      "atime": "2018-09-30T21:00:39.712Z",
+      "mtime": "2018-09-30T20:53:07.751Z",
+      "ctime": "2018-09-30T20:53:07.751Z",
+      "birthtime": "2018-09-30T20:53:07.750Z"
+    },
+    "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/blog/2017-05-02--article-2 absPath of file": {
+      "id": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/blog/2017-05-02--article-2 absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "db8ea8cb075a6b96169e53cc9026478e",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "data",
+      "absolutePath": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/blog/2017-05-02--article-2",
+      "relativePath": "blog/2017-05-02--article-2",
+      "extension": "",
+      "size": 128,
+      "prettySize": "128 B",
+      "modifiedTime": "2018-09-30T20:53:07.776Z",
+      "accessTime": "2018-09-30T21:00:39.713Z",
+      "changeTime": "2018-09-30T20:53:07.776Z",
+      "birthTime": "2018-09-30T20:53:07.767Z",
+      "root": "/",
+      "dir": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/blog",
+      "base": "2017-05-02--article-2",
+      "ext": "",
+      "name": "2017-05-02--article-2",
+      "relativeDirectory": "blog",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 4,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 2646374,
+      "blocks": 0,
+      "atimeMs": 1538341239712.9507,
+      "mtimeMs": 1538340787775.811,
+      "ctimeMs": 1538340787775.811,
+      "birthtimeMs": 1538340787767.4639,
+      "atime": "2018-09-30T21:00:39.713Z",
+      "mtime": "2018-09-30T20:53:07.776Z",
+      "ctime": "2018-09-30T20:53:07.776Z",
+      "birthtime": "2018-09-30T20:53:07.767Z"
+    },
+    "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/author.json absPath of file": {
+      "id": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/author.json absPath of file",
+      "children": [
+        "Fabien BERNARD"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "51d40a6dfa98bac26181f9799bfc1c0b",
+        "mediaType": "application/json",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "data",
+      "absolutePath": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/author.json",
+      "relativePath": "author.json",
+      "extension": "json",
+      "size": 228,
+      "prettySize": "228 B",
+      "modifiedTime": "2018-09-30T20:53:07.679Z",
+      "accessTime": "2018-09-30T20:53:10.481Z",
+      "changeTime": "2018-09-30T20:53:08.212Z",
+      "birthTime": "2018-09-30T20:53:07.679Z",
+      "root": "/",
+      "dir": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data",
+      "base": "author.json",
+      "ext": ".json",
+      "name": "author",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 2646364,
+      "blocks": 8,
+      "atimeMs": 1538340790481.4697,
+      "mtimeMs": 1538340787678.833,
+      "ctimeMs": 1538340788212.353,
+      "birthtimeMs": 1538340787678.746,
+      "atime": "2018-09-30T20:53:10.481Z",
+      "mtime": "2018-09-30T20:53:07.679Z",
+      "ctime": "2018-09-30T20:53:08.212Z",
+      "birthtime": "2018-09-30T20:53:07.679Z"
+    },
+    "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/blog/2017-04-18--welcoming/index.md absPath of file": {
+      "id": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/blog/2017-04-18--welcoming/index.md absPath of file",
+      "children": [
+        "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/blog/2017-04-18--welcoming/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "6dfa2056f872f43227129885aa4b11ee",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "data",
+      "absolutePath": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/blog/2017-04-18--welcoming/index.md",
+      "relativePath": "blog/2017-04-18--welcoming/index.md",
+      "extension": "md",
+      "size": 3004,
+      "prettySize": "3 kB",
+      "modifiedTime": "2018-09-30T20:53:07.680Z",
+      "accessTime": "2018-09-30T20:53:09.219Z",
+      "changeTime": "2018-09-30T20:53:08.220Z",
+      "birthTime": "2018-09-30T20:53:07.680Z",
+      "root": "/",
+      "dir": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/blog/2017-04-18--welcoming",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "blog/2017-04-18--welcoming",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 2646369,
+      "blocks": 8,
+      "atimeMs": 1538340789219.258,
+      "mtimeMs": 1538340787679.809,
+      "ctimeMs": 1538340788219.6436,
+      "birthtimeMs": 1538340787679.7031,
+      "atime": "2018-09-30T20:53:09.219Z",
+      "mtime": "2018-09-30T20:53:07.680Z",
+      "ctime": "2018-09-30T20:53:08.220Z",
+      "birthtime": "2018-09-30T20:53:07.680Z"
+    },
+    "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/avatars/fabien0102.jpg absPath of file": {
+      "id": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/avatars/fabien0102.jpg absPath of file",
+      "children": [
+        "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/avatars/fabien0102.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "b6ef9775fbd80f749a9fed792fe4e01f",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "data",
+      "absolutePath": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/avatars/fabien0102.jpg",
+      "relativePath": "avatars/fabien0102.jpg",
+      "extension": "jpg",
+      "size": 29441,
+      "prettySize": "29.4 kB",
+      "modifiedTime": "2018-09-30T20:53:07.679Z",
+      "accessTime": "2018-09-30T20:53:10.559Z",
+      "changeTime": "2018-09-30T20:53:08.215Z",
+      "birthTime": "2018-09-30T20:53:07.679Z",
+      "root": "/",
+      "dir": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/avatars",
+      "base": "fabien0102.jpg",
+      "ext": ".jpg",
+      "name": "fabien0102",
+      "relativeDirectory": "avatars",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 2646366,
+      "blocks": 64,
+      "atimeMs": 1538340790558.5164,
+      "mtimeMs": 1538340787679.4167,
+      "ctimeMs": 1538340788215.3967,
+      "birthtimeMs": 1538340787679.1165,
+      "atime": "2018-09-30T20:53:10.559Z",
+      "mtime": "2018-09-30T20:53:07.679Z",
+      "ctime": "2018-09-30T20:53:08.215Z",
+      "birthtime": "2018-09-30T20:53:07.679Z"
+    },
+    "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/blog/2017-05-02--article-1/index.md absPath of file": {
+      "id": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/blog/2017-05-02--article-1/index.md absPath of file",
+      "children": [
+        "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/blog/2017-05-02--article-1/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "353caef7b2aceed5cf47c116059d99b1",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "data",
+      "absolutePath": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/blog/2017-05-02--article-1/index.md",
+      "relativePath": "blog/2017-05-02--article-1/index.md",
+      "extension": "md",
+      "size": 247,
+      "prettySize": "247 B",
+      "modifiedTime": "2018-09-30T20:53:07.750Z",
+      "accessTime": "2018-09-30T20:53:18.336Z",
+      "changeTime": "2018-09-30T20:53:08.262Z",
+      "birthTime": "2018-09-30T20:53:07.750Z",
+      "root": "/",
+      "dir": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/blog/2017-05-02--article-1",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "blog/2017-05-02--article-1",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 2646372,
+      "blocks": 8,
+      "atimeMs": 1538340798335.8684,
+      "mtimeMs": 1538340787750.3088,
+      "ctimeMs": 1538340788261.6062,
+      "birthtimeMs": 1538340787750.1646,
+      "atime": "2018-09-30T20:53:18.336Z",
+      "mtime": "2018-09-30T20:53:07.750Z",
+      "ctime": "2018-09-30T20:53:08.262Z",
+      "birthtime": "2018-09-30T20:53:07.750Z"
+    },
+    "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/blog/2017-05-02--article-2/index.md absPath of file": {
+      "id": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/blog/2017-05-02--article-2/index.md absPath of file",
+      "children": [
+        "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/blog/2017-05-02--article-2/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "d70e941252be834d7a3abee1f5cadd5e",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "data",
+      "absolutePath": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/blog/2017-05-02--article-2/index.md",
+      "relativePath": "blog/2017-05-02--article-2/index.md",
+      "extension": "md",
+      "size": 270,
+      "prettySize": "270 B",
+      "modifiedTime": "2018-09-30T20:53:07.776Z",
+      "accessTime": "2018-09-30T20:53:18.336Z",
+      "changeTime": "2018-09-30T20:53:08.272Z",
+      "birthTime": "2018-09-30T20:53:07.776Z",
+      "root": "/",
+      "dir": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/blog/2017-05-02--article-2",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "blog/2017-05-02--article-2",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 2646376,
+      "blocks": 8,
+      "atimeMs": 1538340798335.715,
+      "mtimeMs": 1538340787775.8982,
+      "ctimeMs": 1538340788272.4165,
+      "birthtimeMs": 1538340787775.8013,
+      "atime": "2018-09-30T20:53:18.336Z",
+      "mtime": "2018-09-30T20:53:07.776Z",
+      "ctime": "2018-09-30T20:53:08.272Z",
+      "birthtime": "2018-09-30T20:53:07.776Z"
+    },
+    "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/avatars/fabien0102.jpg absPath of file >> ImageSharp": {
+      "id": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/avatars/fabien0102.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/avatars/fabien0102.jpg absPath of file",
+      "internal": {
+        "contentDigest": "b6ef9775fbd80f749a9fed792fe4e01f",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/blog/2017-04-18--welcoming/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/blog/2017-04-18--welcoming/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/blog/2017-04-18--welcoming/index.md absPath of file",
+      "internal": {
+        "content": "---\ntitle: Welcoming\ncreatedDate: '2017-04-18'\nupdatedDate: '2017-05-06'\nauthor: Fabien BERNARD\ntags:\n  - starter\n  - gatsby\nimage: pexels-photo-253092.jpeg\ndraft: false\n---\n\nWelcome to gatsby-starter!\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque tristique lacus vitae diam posuere faucibus. In hac habitasse platea dictumst. Ut id arcu non risus tincidunt commodo. Sed felis leo, pharetra non porttitor sodales, sodales dictum tortor. Vivamus vel neque interdum, egestas urna ac, finibus tellus. Morbi et rhoncus ligula, nec volutpat dolor. Cras efficitur ipsum a facilisis laoreet. Duis ut libero eget mi convallis maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Pellentesque blandit sit amet erat vel semper.\n\nUt egestas nisl in nunc accumsan, et interdum erat finibus. Fusce commodo ex nec imperdiet fermentum. Suspendisse non nulla eu eros rutrum vestibulum. Curabitur sit amet tortor venenatis, efficitur felis non, commodo urna. Aliquam ut auctor risus. Nullam nec felis pellentesque, tincidunt erat ut, aliquam neque. Ut elementum aliquam leo.\n\nPellentesque sit amet purus a erat tincidunt elementum. Mauris lobortis egestas tellus, vel blandit tortor pellentesque at. Suspendisse potenti. Aenean vehicula, dolor ac interdum fermentum, velit elit fermentum nisi, in hendrerit nisi dolor semper est. Cras ullamcorper eros nec lacus maximus, a tincidunt ipsum feugiat. Quisque dignissim bibendum orci nec vestibulum. Phasellus accumsan eleifend posuere. Aliquam urna neque, auctor id accumsan nec, viverra vel tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sagittis libero ut porttitor lobortis. Nam nec felis tellus. Praesent ipsum ipsum, consectetur non hendrerit non, egestas et felis.\n\nDonec pretium facilisis orci, vitae blandit ex gravida a. Etiam a augue urna. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce finibus urna lectus, eu iaculis massa tempus non. Maecenas in lectus massa. In ut ipsum eleifend, condimentum libero ut, ultricies massa. Integer viverra fringilla sem. Mauris nulla mi, accumsan sed hendrerit ut, tincidunt quis neque. Nullam egestas sem neque, id porta nunc sagittis quis.\n\nMorbi libero sem, molestie nec volutpat ac, volutpat eget dui. Phasellus ante turpis, blandit accumsan facilisis volutpat, bibendum vehicula metus. Fusce pellentesque orci ac imperdiet vestibulum. Aenean aliquam et elit sit amet eleifend. Vivamus libero lacus, porta quis neque a, tincidunt cursus lorem. Nulla placerat gravida nulla, in vestibulum risus lobortis ut. Proin sit amet varius arcu. Sed tincidunt vitae lectus vitae pretium. Fusce malesuada nec diam blandit pharetra. Vivamus fringilla elit ut odio sollicitudin, a convallis nulla dictum. Proin porta nisi eu cursus hendrerit. Donec vel tortor at magna maximus placerat gravida nec ligula.\n\n```javascript\nconst plop = \"coucou\";\nconst toto = \"tata\";\n```\n\ncoucou `plop` comment tu vas ?\n",
+        "contentDigest": "8da1fd8e5889d0a04888bcb9501435f8",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Welcoming",
+        "createdDate": "2017-04-18",
+        "updatedDate": "2017-05-06",
+        "author": "Fabien BERNARD",
+        "tags": [
+          "starter",
+          "gatsby"
+        ],
+        "image": "pexels-photo-253092.jpeg",
+        "draft": false,
+        "_PARENT": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/blog/2017-04-18--welcoming/index.md absPath of file",
+        "parent": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/blog/2017-04-18--welcoming/index.md absPath of file"
+      },
+      "fileAbsolutePath": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/blog/2017-04-18--welcoming/index.md",
+      "fields": {
+        "slug": "/blog/2017-04-18--welcoming/"
+      }
+    },
+    "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/blog/2017-05-02--article-1/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/blog/2017-05-02--article-1/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/blog/2017-05-02--article-1/index.md absPath of file",
+      "internal": {
+        "content": "---\ntitle: 'Article #1'\ncreatedDate: '2017-05-02'\nupdatedDate: '2017-05-06'\nauthor: Fabien BERNARD\ntags:\n  - test\nimage: pexels-photo-59628.jpeg\ndraft: false\n---\n\nMy awesome article\n\n## TODO\n\n-   [x] Replace image\n-   [ ] Write an awesome article\n",
+        "contentDigest": "77d7995d88b6020c69ab3de7c24d14b1",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Article #1",
+        "createdDate": "2017-05-02",
+        "updatedDate": "2017-05-06",
+        "author": "Fabien BERNARD",
+        "tags": [
+          "test"
+        ],
+        "image": "pexels-photo-59628.jpeg",
+        "draft": false,
+        "_PARENT": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/blog/2017-05-02--article-1/index.md absPath of file",
+        "parent": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/blog/2017-05-02--article-1/index.md absPath of file"
+      },
+      "fileAbsolutePath": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/blog/2017-05-02--article-1/index.md",
+      "fields": {
+        "slug": "/blog/2017-05-02--article-1/"
+      }
+    },
+    "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/blog/2017-05-02--article-2/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/blog/2017-05-02--article-2/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/blog/2017-05-02--article-2/index.md absPath of file",
+      "internal": {
+        "content": "---\ntitle: 'Article #2'\ncreatedDate: '2017-05-02'\nupdatedDate: '2017-05-06'\nauthor: Fabien BERNARD\ntags:\n  - test\nimage: cup-of-coffee-laptop-office-macbook-89786.jpeg\ndraft: false\n---\n\nMy awesome article\n\n## TODO\n\n-   [x] Replace image\n-   [ ] Write an awesome article\n",
+        "contentDigest": "77b1ac1eb59a665f38e0a1c9ce4f51bb",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Article #2",
+        "createdDate": "2017-05-02",
+        "updatedDate": "2017-05-06",
+        "author": "Fabien BERNARD",
+        "tags": [
+          "test"
+        ],
+        "image": "cup-of-coffee-laptop-office-macbook-89786.jpeg",
+        "draft": false,
+        "_PARENT": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/blog/2017-05-02--article-2/index.md absPath of file",
+        "parent": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/blog/2017-05-02--article-2/index.md absPath of file"
+      },
+      "fileAbsolutePath": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/blog/2017-05-02--article-2/index.md",
+      "fields": {
+        "slug": "/blog/2017-05-02--article-2/"
+      }
+    },
+    "Fabien BERNARD": {
+      "id": "Fabien BERNARD",
+      "bio": "JavaScript Developer with ♥ #Craftman #Lean #JS #FRP. Member at @GatsbyJS.",
+      "avatar": "avatars/fabien0102.jpg",
+      "twitter": "@fabien0102",
+      "github": "@fabien0102",
+      "children": [],
+      "parent": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/author.json absPath of file",
+      "internal": {
+        "contentDigest": "dc1455a1c82a011fdf3546f11f189e17",
+        "type": "AuthorJson",
+        "owner": "gatsby-transformer-json"
+      }
+    },
+    "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/blog/2017-05-02--article-2/cup-of-coffee-laptop-office-macbook-89786.jpeg absPath of file": {
+      "id": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/blog/2017-05-02--article-2/cup-of-coffee-laptop-office-macbook-89786.jpeg absPath of file",
+      "children": [
+        "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/blog/2017-05-02--article-2/cup-of-coffee-laptop-office-macbook-89786.jpeg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "98bc53d2012296d56b37cad2ff328b5a",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "data",
+      "absolutePath": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/blog/2017-05-02--article-2/cup-of-coffee-laptop-office-macbook-89786.jpeg",
+      "relativePath": "blog/2017-05-02--article-2/cup-of-coffee-laptop-office-macbook-89786.jpeg",
+      "extension": "jpeg",
+      "size": 1386432,
+      "prettySize": "1.39 MB",
+      "modifiedTime": "2018-09-30T20:53:07.776Z",
+      "accessTime": "2018-09-30T20:53:18.336Z",
+      "changeTime": "2018-09-30T20:53:08.269Z",
+      "birthTime": "2018-09-30T20:53:07.768Z",
+      "root": "/",
+      "dir": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/blog/2017-05-02--article-2",
+      "base": "cup-of-coffee-laptop-office-macbook-89786.jpeg",
+      "ext": ".jpeg",
+      "name": "cup-of-coffee-laptop-office-macbook-89786",
+      "relativeDirectory": "blog/2017-05-02--article-2",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 2646375,
+      "blocks": 2712,
+      "atimeMs": 1538340798335.737,
+      "mtimeMs": 1538340787775.5781,
+      "ctimeMs": 1538340788269.3896,
+      "birthtimeMs": 1538340787767.572,
+      "atime": "2018-09-30T20:53:18.336Z",
+      "mtime": "2018-09-30T20:53:07.776Z",
+      "ctime": "2018-09-30T20:53:08.269Z",
+      "birthtime": "2018-09-30T20:53:07.768Z"
+    },
+    "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/blog/2017-05-02--article-2/cup-of-coffee-laptop-office-macbook-89786.jpeg absPath of file >> ImageSharp": {
+      "id": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/blog/2017-05-02--article-2/cup-of-coffee-laptop-office-macbook-89786.jpeg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/blog/2017-05-02--article-2/cup-of-coffee-laptop-office-macbook-89786.jpeg absPath of file",
+      "internal": {
+        "contentDigest": "98bc53d2012296d56b37cad2ff328b5a",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/blog/2017-05-02--article-1/pexels-photo-59628.jpeg absPath of file": {
+      "id": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/blog/2017-05-02--article-1/pexels-photo-59628.jpeg absPath of file",
+      "children": [
+        "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/blog/2017-05-02--article-1/pexels-photo-59628.jpeg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "091745cd48ceb8313ea81d0049393dc9",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "data",
+      "absolutePath": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/blog/2017-05-02--article-1/pexels-photo-59628.jpeg",
+      "relativePath": "blog/2017-05-02--article-1/pexels-photo-59628.jpeg",
+      "extension": "jpeg",
+      "size": 3928991,
+      "prettySize": "3.93 MB",
+      "modifiedTime": "2018-09-30T20:53:07.767Z",
+      "accessTime": "2018-09-30T20:53:27.453Z",
+      "changeTime": "2018-09-30T20:53:08.266Z",
+      "birthTime": "2018-09-30T20:53:07.751Z",
+      "root": "/",
+      "dir": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/blog/2017-05-02--article-1",
+      "base": "pexels-photo-59628.jpeg",
+      "ext": ".jpeg",
+      "name": "pexels-photo-59628",
+      "relativeDirectory": "blog/2017-05-02--article-1",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 2646373,
+      "blocks": 7680,
+      "atimeMs": 1538340807453.3562,
+      "mtimeMs": 1538340787767.3882,
+      "ctimeMs": 1538340788265.7495,
+      "birthtimeMs": 1538340787750.5007,
+      "atime": "2018-09-30T20:53:27.453Z",
+      "mtime": "2018-09-30T20:53:07.767Z",
+      "ctime": "2018-09-30T20:53:08.266Z",
+      "birthtime": "2018-09-30T20:53:07.751Z"
+    },
+    "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/blog/2017-05-02--article-1/pexels-photo-59628.jpeg absPath of file >> ImageSharp": {
+      "id": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/blog/2017-05-02--article-1/pexels-photo-59628.jpeg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/blog/2017-05-02--article-1/pexels-photo-59628.jpeg absPath of file",
+      "internal": {
+        "contentDigest": "091745cd48ceb8313ea81d0049393dc9",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/blog/2017-04-18--welcoming/pexels-photo-253092.jpeg absPath of file": {
+      "id": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/blog/2017-04-18--welcoming/pexels-photo-253092.jpeg absPath of file",
+      "children": [
+        "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/blog/2017-04-18--welcoming/pexels-photo-253092.jpeg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "1687ff8f3ef6dfcb7c7674f9248bf6af",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "data",
+      "absolutePath": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/blog/2017-04-18--welcoming/pexels-photo-253092.jpeg",
+      "relativePath": "blog/2017-04-18--welcoming/pexels-photo-253092.jpeg",
+      "extension": "jpeg",
+      "size": 9113245,
+      "prettySize": "9.11 MB",
+      "modifiedTime": "2018-09-30T20:53:07.749Z",
+      "accessTime": "2018-09-30T20:53:27.453Z",
+      "changeTime": "2018-09-30T20:53:08.222Z",
+      "birthTime": "2018-09-30T20:53:07.680Z",
+      "root": "/",
+      "dir": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/blog/2017-04-18--welcoming",
+      "base": "pexels-photo-253092.jpeg",
+      "ext": ".jpeg",
+      "name": "pexels-photo-253092",
+      "relativeDirectory": "blog/2017-04-18--welcoming",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 2646370,
+      "blocks": 17800,
+      "atimeMs": 1538340807453.44,
+      "mtimeMs": 1538340787749.3313,
+      "ctimeMs": 1538340788222.1343,
+      "birthtimeMs": 1538340787679.9526,
+      "atime": "2018-09-30T20:53:27.453Z",
+      "mtime": "2018-09-30T20:53:07.749Z",
+      "ctime": "2018-09-30T20:53:08.222Z",
+      "birthtime": "2018-09-30T20:53:07.680Z"
+    },
+    "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/blog/2017-04-18--welcoming/pexels-photo-253092.jpeg absPath of file >> ImageSharp": {
+      "id": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/blog/2017-04-18--welcoming/pexels-photo-253092.jpeg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/blog/2017-04-18--welcoming/pexels-photo-253092.jpeg absPath of file",
+      "internal": {
+        "contentDigest": "1687ff8f3ef6dfcb7c7674f9248bf6af",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "SitePage /blog/2017-04-18--welcoming/": {
+      "layout": "index",
+      "jsonName": "blog-2017-04-18-welcoming.json",
+      "internalComponentName": "ComponentBlog20170418Welcoming",
+      "path": "/blog/2017-04-18--welcoming/",
+      "component": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/src/templates/blog-post.tsx",
+      "componentChunkName": "component---src-templates-blog-post-tsx",
+      "context": {
+        "slug": "/blog/2017-04-18--welcoming/",
+        "_PARENT": "SOURCE"
+      },
+      "updatedAt": 1538341240138,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/src/templates/blog-post.tsx",
+      "id": "SitePage /blog/2017-04-18--welcoming/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "9e9e64aba0fcd53d0960b9f65fb17341",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /blog/2017-05-02--article-1/": {
+      "layout": "index",
+      "jsonName": "blog-2017-05-02-article-1.json",
+      "internalComponentName": "ComponentBlog20170502Article1",
+      "path": "/blog/2017-05-02--article-1/",
+      "component": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/src/templates/blog-post.tsx",
+      "componentChunkName": "component---src-templates-blog-post-tsx",
+      "context": {
+        "slug": "/blog/2017-05-02--article-1/",
+        "_PARENT": "SOURCE"
+      },
+      "updatedAt": 1538341240139,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/src/templates/blog-post.tsx",
+      "id": "SitePage /blog/2017-05-02--article-1/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "a2b1a49e4ac146173020cf1ce655145d",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /blog/2017-05-02--article-2/": {
+      "layout": "index",
+      "jsonName": "blog-2017-05-02-article-2.json",
+      "internalComponentName": "ComponentBlog20170502Article2",
+      "path": "/blog/2017-05-02--article-2/",
+      "component": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/src/templates/blog-post.tsx",
+      "componentChunkName": "component---src-templates-blog-post-tsx",
+      "context": {
+        "slug": "/blog/2017-05-02--article-2/",
+        "_PARENT": "SOURCE"
+      },
+      "updatedAt": 1538341240140,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/src/templates/blog-post.tsx",
+      "id": "SitePage /blog/2017-05-02--article-2/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "825b91db29f2dca4566ee642c50b62f9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /blog/tags/starter/": {
+      "layout": "index",
+      "jsonName": "blog-tags-starter.json",
+      "internalComponentName": "ComponentBlogTagsStarter",
+      "path": "/blog/tags/starter/",
+      "component": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/src/templates/tags-page.tsx",
+      "componentChunkName": "component---src-templates-tags-page-tsx",
+      "context": {
+        "tag": "starter",
+        "_PARENT": "SOURCE"
+      },
+      "updatedAt": 1538341240140,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/src/templates/tags-page.tsx",
+      "id": "SitePage /blog/tags/starter/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "8943e9e9939ef044378285d4c74c5df3",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /blog/tags/gatsby/": {
+      "layout": "index",
+      "jsonName": "blog-tags-gatsby.json",
+      "internalComponentName": "ComponentBlogTagsGatsby",
+      "path": "/blog/tags/gatsby/",
+      "component": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/src/templates/tags-page.tsx",
+      "componentChunkName": "component---src-templates-tags-page-tsx",
+      "context": {
+        "tag": "gatsby",
+        "_PARENT": "SOURCE"
+      },
+      "updatedAt": 1538341240141,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/src/templates/tags-page.tsx",
+      "id": "SitePage /blog/tags/gatsby/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "64b85704c4d627d10e48164d6f5518fa",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /blog/tags/test/": {
+      "layout": "index",
+      "jsonName": "blog-tags-test.json",
+      "internalComponentName": "ComponentBlogTagsTest",
+      "path": "/blog/tags/test/",
+      "component": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/src/templates/tags-page.tsx",
+      "componentChunkName": "component---src-templates-tags-page-tsx",
+      "context": {
+        "tag": "test",
+        "_PARENT": "SOURCE"
+      },
+      "updatedAt": 1538341240141,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/src/templates/tags-page.tsx",
+      "id": "SitePage /blog/tags/test/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "7ad39aed2861bbf55ea8b653d8ff30ff",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /blog/page/1/": {
+      "layout": "index",
+      "jsonName": "blog-page-1.json",
+      "internalComponentName": "ComponentBlogPage1",
+      "path": "/blog/page/1/",
+      "component": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/src/templates/blog-page.tsx",
+      "componentChunkName": "component---src-templates-blog-page-tsx",
+      "context": {
+        "skip": 0,
+        "_PARENT": "SOURCE"
+      },
+      "updatedAt": 1538341240142,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/src/templates/blog-page.tsx",
+      "id": "SitePage /blog/page/1/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "6bcf51de977d1984fe2dbb936fd3a74f",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404/": {
+      "layout": "index",
+      "jsonName": "404.json",
+      "internalComponentName": "Component404",
+      "path": "/404/",
+      "component": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/src/pages/404.tsx",
+      "componentChunkName": "component---src-pages-404-tsx",
+      "context": {
+        "_PARENT": "SOURCE"
+      },
+      "updatedAt": 1538341240156,
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/src/pages/404.tsx",
+      "id": "SitePage /404/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "b77b646dbdc2749dc117041acac9a1e1",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /about/": {
+      "layout": "index",
+      "jsonName": "about.json",
+      "internalComponentName": "ComponentAbout",
+      "path": "/about/",
+      "component": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/src/pages/about.tsx",
+      "componentChunkName": "component---src-pages-about-tsx",
+      "context": {
+        "_PARENT": "SOURCE"
+      },
+      "updatedAt": 1538341240157,
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/src/pages/about.tsx",
+      "id": "SitePage /about/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "967155beeb50b99f3bed379f1e1efe59",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /blog/": {
+      "layout": "index",
+      "jsonName": "blog.json",
+      "internalComponentName": "ComponentBlog",
+      "path": "/blog/",
+      "component": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/src/pages/blog.tsx",
+      "componentChunkName": "component---src-pages-blog-tsx",
+      "context": {
+        "_PARENT": "SOURCE"
+      },
+      "updatedAt": 1538341240158,
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/src/pages/blog.tsx",
+      "id": "SitePage /blog/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "4c6521dee0a4e326e63054ba8831b448",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "layout": "index",
+      "jsonName": "index.json",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/src/pages/index.tsx",
+      "componentChunkName": "component---src-pages-index-tsx",
+      "context": {
+        "_PARENT": "SOURCE"
+      },
+      "updatedAt": 1538341240159,
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/src/pages/index.tsx",
+      "id": "SitePage /",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "d2a132c9a321eed3e19ad504bcf0334b",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404.html": {
+      "layout": "index",
+      "jsonName": "404-html.json",
+      "internalComponentName": "Component404Html",
+      "path": "/404.html",
+      "component": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/src/pages/404.tsx",
+      "componentChunkName": "component---src-pages-404-tsx",
+      "context": {
+        "_PARENT": "SOURCE"
+      },
+      "updatedAt": 1538341240161,
+      "pluginCreator___NODE": "Plugin prod-404",
+      "pluginCreatorId": "Plugin prod-404",
+      "componentPath": "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/src/pages/404.tsx",
+      "id": "SitePage /404.html",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "9a6c8b95ab742eda263f7b88d1401507",
+        "owner": "internal-data-bridge"
+      }
+    }
+  },
+  "status": {
+    "plugins": {},
+    "PLUGINS_HASH": "a93c15f52db42dfb087d4f32358e1e3a"
+  },
+  "componentDataDependencies": {
+    "nodes": {
+      "Site": [
+        "/blog/2017-04-18--welcoming/",
+        "/blog/2017-05-02--article-1/",
+        "/blog/2017-05-02--article-2/"
+      ],
+      "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/blog/2017-04-18--welcoming/index.md absPath of file >>> MarkdownRemark": [
+        "/blog/2017-04-18--welcoming/"
+      ],
+      "Fabien BERNARD": [
+        "/blog/2017-04-18--welcoming/",
+        "/blog/2017-05-02--article-1/",
+        "/blog/2017-05-02--article-2/",
+        "/blog/tags/starter/",
+        "/blog/tags/gatsby/",
+        "/blog/tags/test/",
+        "/blog/page/1/",
+        "/blog/"
+      ],
+      "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/avatars/fabien0102.jpg absPath of file": [
+        "/blog/2017-04-18--welcoming/",
+        "/blog/2017-05-02--article-1/",
+        "/blog/2017-05-02--article-2/",
+        "/blog/tags/starter/",
+        "/blog/tags/gatsby/",
+        "/blog/tags/test/",
+        "/blog/page/1/",
+        "/blog/"
+      ],
+      "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/avatars/fabien0102.jpg absPath of file >> ImageSharp": [
+        "/blog/2017-04-18--welcoming/",
+        "/blog/2017-05-02--article-1/",
+        "/blog/2017-05-02--article-2/",
+        "/blog/tags/starter/",
+        "/blog/tags/gatsby/",
+        "/blog/tags/test/",
+        "/blog/page/1/",
+        "/blog/"
+      ],
+      "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/blog/2017-04-18--welcoming/pexels-photo-253092.jpeg absPath of file": [
+        "/blog/2017-04-18--welcoming/",
+        "/blog/2017-05-02--article-1/",
+        "/blog/2017-05-02--article-2/",
+        "/blog/tags/starter/",
+        "/blog/tags/gatsby/",
+        "/blog/page/1/",
+        "/blog/"
+      ],
+      "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/blog/2017-04-18--welcoming/pexels-photo-253092.jpeg absPath of file >> ImageSharp": [
+        "/blog/2017-04-18--welcoming/",
+        "/blog/2017-05-02--article-1/",
+        "/blog/2017-05-02--article-2/",
+        "/blog/tags/starter/",
+        "/blog/tags/gatsby/",
+        "/blog/page/1/",
+        "/blog/"
+      ],
+      "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/blog/2017-05-02--article-1/pexels-photo-59628.jpeg absPath of file": [
+        "/blog/2017-04-18--welcoming/",
+        "/blog/2017-05-02--article-1/",
+        "/blog/2017-05-02--article-2/",
+        "/blog/tags/test/",
+        "/blog/page/1/",
+        "/blog/"
+      ],
+      "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/blog/2017-05-02--article-1/pexels-photo-59628.jpeg absPath of file >> ImageSharp": [
+        "/blog/2017-04-18--welcoming/",
+        "/blog/2017-05-02--article-1/",
+        "/blog/2017-05-02--article-2/",
+        "/blog/tags/test/",
+        "/blog/page/1/",
+        "/blog/"
+      ],
+      "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/blog/2017-05-02--article-2/cup-of-coffee-laptop-office-macbook-89786.jpeg absPath of file": [
+        "/blog/2017-04-18--welcoming/",
+        "/blog/2017-05-02--article-1/",
+        "/blog/2017-05-02--article-2/",
+        "/blog/tags/test/",
+        "/blog/page/1/",
+        "/blog/"
+      ],
+      "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/blog/2017-05-02--article-2/cup-of-coffee-laptop-office-macbook-89786.jpeg absPath of file >> ImageSharp": [
+        "/blog/2017-04-18--welcoming/",
+        "/blog/2017-05-02--article-1/",
+        "/blog/2017-05-02--article-2/",
+        "/blog/tags/test/",
+        "/blog/page/1/",
+        "/blog/"
+      ],
+      "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/blog/2017-05-02--article-1/index.md absPath of file >>> MarkdownRemark": [
+        "/blog/2017-05-02--article-1/"
+      ],
+      "/Users/leyiqiang/Library/Mobile Documents/com~apple~CloudDocs/myprojects/nucssa-gatsby-blog/nucssa/data/blog/2017-05-02--article-2/index.md absPath of file >>> MarkdownRemark": [
+        "/blog/2017-05-02--article-2/"
+      ]
+    },
+    "connections": {
+      "SitePage": [
+        "/dev-404-page/"
+      ],
+      "MarkdownRemark": [
+        "/blog/2017-04-18--welcoming/",
+        "/blog/2017-05-02--article-1/",
+        "/blog/2017-05-02--article-2/",
+        "/blog/tags/starter/",
+        "/blog/tags/gatsby/",
+        "/blog/tags/test/",
+        "/blog/page/1/",
+        "/blog/"
+      ]
+    }
+  }
+}
