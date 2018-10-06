@@ -23,8 +23,8 @@ const Blog = props => {
                   }
                 } = post;
                 return (
-                  <Col sm={6} md={4}>
-                    <Item key={slug} post={node} theme={theme} />
+                  <Col key={slug} sm={6} md={4}>
+                    <Item post={node} theme={theme} />
                   </Col>
                 );
               });
@@ -53,7 +53,7 @@ const Blog = props => {
         ul {
           list-style: none;
           margin: 0 auto;
-          padding: ${`calc(${theme.space.default} * 1.5) 0 calc(${theme.space.default} * 0.5)`};
+          // padding: ${`calc(${theme.space.default} * 1.5) 0 calc(${theme.space.default} * 0.5)`};
         }
 
         @above tablet {

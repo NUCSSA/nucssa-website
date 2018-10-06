@@ -1,9 +1,9 @@
 import React from "react";
 
 const LoadingPage = () => (
-  <div>
-    <p>加载中...</p>
-    <p>Loading...</p>
+  <div className="container">
+    <h1>加载中...</h1>
+    <h1>Loading...</h1>
   </div>
 );
 
