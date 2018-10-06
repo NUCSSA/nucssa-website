@@ -28,7 +28,7 @@ const Item = props => {
     <React.Fragment>
       <li>
         <Link
-          to={'/loading'}
+          to="/loading"
           onClick={() => {
             window.location.replace(link);
           }}
