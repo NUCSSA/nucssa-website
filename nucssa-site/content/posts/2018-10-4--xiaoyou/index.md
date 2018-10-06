@@ -2,7 +2,8 @@
 title: 校友经验分享会
 category: "活动"
 cover: photo-1465070845512-2b2dbdc6df66.jpg
-author: greg lobinski
+link: https://mp.weixin.qq.com/s?timestamp=1538780246&src=3&ver=1&signature=GOmjOdoc7cX9PTVTtmkkUSJVQI46sGpeCmdsD8UP3vKvPxTAGqCoEfJPBMjoPFkmOnAyAygzW8zElJxl1s7Ut*ZaD6AtZ7UBSV22ZQD3Xo0FrG9wrUztV0BuOQnNayfdntvMQlzKDFIM1JjO3jjFjDwPlicU6R-lHNcoKyicbfE=
+author: NUCSSA IT
 ---
 
 :100: Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.

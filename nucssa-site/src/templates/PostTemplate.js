@@ -61,6 +61,7 @@ export const postQuery = graphql`
       }
       frontmatter {
         title
+        link
         author
         category
         cover {

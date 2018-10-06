@@ -1,6 +1,7 @@
 ---
 title: I may not have gone where I intended to go
 category: "testimonies"
+link: https://mp.weixin.qq.com/s?timestamp=1538780246&src=3&ver=1&signature=GOmjOdoc7cX9PTVTtmkkUSJVQI46sGpeCmdsD8UP3vKvPxTAGqCoEfJPBMjoPFkmOnAyAygzW8zElJxl1s7Ut*ZaD6AtZ7UBSV22ZQD3Xo0FrG9wrUztV0BuOQnNayfdntvMQlzKDFIM1JjO3jjFjDwPlicU6R-lHNcoKyicbfE=
 cover: photo-1507915600431-5292809c5ab7.jpg
 author: greg lobinski
 ---

@@ -1,14 +1,15 @@
-import React from "react";
+import React, { Component } from "react";
 import PropTypes from "prop-types";
 import "prismjs/themes/prism-okaidia.css";
 
 import asyncComponent from "../AsyncComponent";
-import Headline from "../Article/Headline";
-import Bodytext from "../Article/Bodytext";
-import Meta from "./Meta";
-import Author from "./Author";
-import Comments from "./Comments";
-import NextPrev from "./NextPrev";
+// import Headline from "../Article/Headline";
+// import Bodytext from "../Article/Bodytext";
+// import Meta from "./Meta";
+// import Author from "./Author";
+// import Comments from "./Comments";
+// import NextPrev from "./NextPrev";
+// import axios from "axios";
 
 const Share = asyncComponent(() =>
   import("./Share")
@@ -18,37 +19,35 @@ const Share = asyncComponent(() =>
     .catch(error => {})
 );
 
-const Post = props => {
-  const {
-    post,
-    post: {
-      html,
-      fields: { prefix, slug },
-      frontmatter: { title, author, category }
-    },
-    authornote,
-    facebook,
-    next: nextPost,
-    prev: prevPost,
-    theme
-  } = props;
+class Post extends Component {
+  constructor(props) {
+    super(props);
+    const {
+      post: {
+        frontmatter: { link }
+      }
+    } = this.props;
+    window.location.replace(link);
+  }
 
-  return (
-    <React.Fragment>
-      <header>
-        <Headline title={title} theme={theme} />
-        <Meta prefix={prefix} author={author} category={category} theme={theme} />
-      </header>
-      <Bodytext html={html} theme={theme} />
-      <footer>
-        <Share post={post} theme={theme} />
-        <Author note={authornote} theme={theme} />
-        <NextPrev next={nextPost} prev={prevPost} theme={theme} />
-        <Comments slug={slug} facebook={facebook} theme={theme} />
-      </footer>
-    </React.Fragment>
-  );
-};
+  render() {
+    return (
+      <React.Fragment>
+        跳转中...
+        {/*<header>*/}
+        {/*<Headline title={title} theme={theme} />*/}
+        {/*<Meta prefix={prefix} author={author} category={category} theme={theme} />*/}
+        {/*</header>*/}
+        {/*<footer>*/}
+        {/*<Share post={post} theme={theme} />*/}
+        {/*<Author note={authornote} theme={theme} />*/}
+        {/*<NextPrev next={nextPost} prev={prevPost} theme={theme} />*/}
+        {/*<Comments slug={slug} facebook={facebook} theme={theme} />*/}
+        {/*</footer>*/}
+      </React.Fragment>
+    );
+  }
+}
 
 Post.propTypes = {
   post: PropTypes.object.isRequired,
