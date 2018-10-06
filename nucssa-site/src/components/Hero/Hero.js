@@ -10,7 +10,7 @@ const Hero = props => {
     <React.Fragment>
       <section className="hero">
         <h1>
-          <strong>NUCSSA</strong>, 网站建设中..
+          你好, 我们是 <strong>NUCSSA</strong>
         </h1>
         <button onClick={scrollToContent} aria-label="scroll">
           <FaArrowDown />
