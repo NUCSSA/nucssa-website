@@ -16,6 +16,7 @@ const Item = props => {
       frontmatter: {
         title,
         category,
+        link,
         author,
         cover: {
           children: [{ fluid }]
@@ -26,7 +27,14 @@ const Item = props => {
   return (
     <React.Fragment>
       <li>
-        <Link to={slug} key={slug} className="link">
+        <Link
+          to={'/loading'}
+          onClick={() => {
+            window.location.replace(link);
+          }}
+          key={slug}
+          className="link"
+        >
           <div className="gatsby-image-outer-wrapper">
             <Img fluid={fluid} />
           </div>
