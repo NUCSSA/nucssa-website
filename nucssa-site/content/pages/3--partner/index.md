@@ -1,6 +1,6 @@
 ---
 title: Partner 合作
-menuTitle: With Greg
+menuTitle: Partner 合作
 ---
 
 [Front-end web development with Greg](https://dev.greglobinski.com) is a blog I have just launched.
