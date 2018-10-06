@@ -27,7 +27,7 @@ class Post extends Component {
         frontmatter: { link }
       }
     } = this.props;
-    window.location.replace(link);
+    // window.location.replace(link);
   }
 
   render() {
@@ -52,7 +52,6 @@ class Post extends Component {
 Post.propTypes = {
   post: PropTypes.object.isRequired,
   authornote: PropTypes.string.isRequired,
-  facebook: PropTypes.object.isRequired,
   next: PropTypes.object,
   prev: PropTypes.object,
   theme: PropTypes.object.isRequired
