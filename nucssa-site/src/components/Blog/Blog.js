@@ -1,25 +1,47 @@
 import PropTypes from "prop-types";
 import React from "react";
-
+import _ from "lodash";
 import Item from "./Item";
+import { Grid, Row, Col } from "react-bootstrap";
 
 const Blog = props => {
   const { posts, theme } = props;
-
+  const size = 4; // Number of items in a row
+  const rows = _.chunk(posts, size);
   return (
     <React.Fragment>
       <main className="main">
-        <ul>
-          {posts.map(post => {
-            const {
-              node,
-              node: {
-                fields: { slug }
-              }
-            } = post;
-            return <Item key={slug} post={node} theme={theme} />;
-          })}
-        </ul>
+        {/*<ul>*/}
+        <Grid>
+          <Row>
+            {_.map(rows, (row, index) => {
+              const itemList = _.map(row, post => {
+                const {
+                  node,
+                  node: {
+                    fields: { slug }
+                  }
+                } = post;
+                return (
+                  <Col sm={6} md={4}>
+                    <Item key={slug} post={node} theme={theme} />
+                  </Col>
+                );
+              });
+              return <div key={index}>{itemList}</div>;
+            })}
+          </Row>
+        </Grid>
+        {/*{posts.map(post => {*/}
+        {/*const {*/}
+        {/*node,*/}
+        {/*node: {*/}
+        {/*fields: { slug }*/}
+        {/*}*/}
+        {/*} = post;*/}
+        {/*return <Item key={slug} post={node} theme={theme} />;*/}
+        {/*})}*/}
+        {/*</ul>*/}
       </main>
 
       {/* --- STYLES --- */}

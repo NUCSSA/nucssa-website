@@ -163,7 +163,7 @@ class Layout extends React.Component {
                         font-weight: ${this.state.font600loaded ? 600 : 400};
                       }
                       a {
-                        text-decoration: none;
+                        text-decoration: none !important;
                         color: #666;
                       }
                       main {

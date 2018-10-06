@@ -61,14 +61,15 @@ const Item = props => {
       {/* --- STYLES --- */}
       <style jsx>{`
         :global(.link) {
-          width: 100%;
-          color: ${theme.text.color.primary};
+          width: 30%;
+          color: ${theme.text.color.primary} !important;
         }
 
         li {
+          list-style:none;
           border: 1px solid transparent;
-          border-radius: ${theme.size.radius.default};
-          margin: ${`calc(${theme.space.default} * 2) 0 calc(${theme.space.default} * 3)`};
+          // border-radius: ${theme.size.radius.default};
+          // margin: ${`calc(${theme.space.default} * 2) 0 calc(${theme.space.default} * 3)`};
           padding: ${theme.space.inset.s};
           position: relative;
           transition: all ${theme.time.duration.default};
@@ -84,7 +85,7 @@ const Item = props => {
           }
 
           &::after {
-            border-top: 1px solid ${theme.line.color};
+            // border-top: 1px solid ${theme.line.color};
             content: "";
             height: 0;
             position: absolute;
@@ -97,7 +98,7 @@ const Item = props => {
 
           &:first-child {
             &::before {
-              border-top: 1px solid ${theme.line.color};
+              // border-top: 1px solid ${theme.line.color};
               content: "";
               height: 0;
               position: absolute;
