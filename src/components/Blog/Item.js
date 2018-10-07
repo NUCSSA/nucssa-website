@@ -28,9 +28,9 @@ const Item = props => {
     <React.Fragment>
       <li>
         <Link
-          to="/loading"
+          to=""
           onClick={() => {
-            window.location.replace(link);
+            window.open(link, "_blank");
           }}
           key={slug}
           className="link"
