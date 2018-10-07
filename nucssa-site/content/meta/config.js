@@ -3,7 +3,7 @@ module.exports = {
   shortSiteTitle: "NUCSSA", // <title> ending for posts and pages
   siteDescription: "NUCSSA, welcome.",
   siteUrl: "https://gatsby-starter-hero-blog.greglobinski.com",
-  pathPrefix: "",
+  pathPrefix: "/nucssa-site",
   siteImage: "preview.jpg",
   siteLanguage: "en",
   // author
