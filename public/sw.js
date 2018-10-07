@@ -26,24 +26,24 @@ workbox.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-84038ecdaad225e67b45.js"
+    "url": "webpack-runtime-777b9483d7fcbdcdcdc6.js"
   },
   {
-    "url": "app.490624f58c95b19ca37b.css"
+    "url": "app.f24a805a156e39ec0d88.css"
   },
   {
-    "url": "app-e9c6a3035f579911fc4b.js"
+    "url": "app-9700bc2b940df7cf7bf9.js"
   },
   {
     "url": "component---node-modules-gatsby-plugin-offline-app-shell-js-c303c650ba270fe7f9a7.js"
   },
   {
     "url": "index.html",
-    "revision": "52304b154d6070167560f8aa4521e48d"
+    "revision": "1c152a93a689b7ba745c7da3aac30d18"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "434e8093b2521e5fe9e55067f9203c92"
+    "revision": "208d0993f90fb52912c4839a747df2eb"
   },
   {
     "url": "component---src-pages-index-js-3379d239f72edab0f667.js"
@@ -74,7 +74,7 @@ self.__precacheManifest = [
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/offline-plugin-app-shell-fallback/index.html", {
+workbox.routing.registerNavigationRoute("/nucssa-website/offline-plugin-app-shell-fallback/index.html", {
   whitelist: [/^[^?]*([^.?]{5}|\.html)(\?.*)?$/],
   blacklist: [/\?(.+&)?no-cache=1$/],
 });

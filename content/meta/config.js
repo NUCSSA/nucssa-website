@@ -2,7 +2,7 @@ module.exports = {
   siteTitle: "NUCSSA", // <title>
   shortSiteTitle: "NUCSSA", // <title> ending for posts and pages
   siteDescription: "NUCSSA, welcome.",
-  siteUrl: "https://gatsby-starter-hero-blog.greglobinski.com",
+  siteUrl: "https://nucssa.github.io",
   pathPrefix: `/nucssa-website`,
   siteImage: "preview.jpg",
   siteLanguage: "en",
