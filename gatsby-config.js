@@ -35,7 +35,7 @@ module.exports = {
   siteMetadata: {
     title: config.siteTitle,
     description: config.siteDescription,
-    siteUrl: config.siteUrl + config.pathPrefix,
+    siteUrl: config.siteUrl,
     pathPrefix: config.pathPrefix
   },
   plugins: [
