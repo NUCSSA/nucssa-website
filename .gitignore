@@ -60,4 +60,14 @@ typings/
 # next.js build output
 .next
 
+.cache/
 .DS_Store
+public/
+yarn-error.log
+
+# editors
+.idea/
+
+# other
+report/
+
