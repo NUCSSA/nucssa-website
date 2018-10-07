@@ -6,7 +6,7 @@ Please click the pictures to download the original size files.
 
 Banner 横幅1
 
-![alt text](banner1.png)
+![alt text](../about-us/banner1.png)
 
 Banner 横幅2
 

@@ -35,8 +35,7 @@ module.exports = {
   siteMetadata: {
     title: config.siteTitle,
     description: config.siteDescription,
-    siteUrl: config.siteUrl,
-    pathPrefix: config.pathPrefix
+    siteUrl: config.siteUrl
   },
   plugins: [
     `gatsby-plugin-styled-jsx`, // the plugin's code is inserted directly to gatsby-node.js and gatsby-ssr.js files
