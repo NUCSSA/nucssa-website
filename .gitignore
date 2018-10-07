@@ -62,7 +62,8 @@ typings/
 
 .cache/
 .DS_Store
-public/
+public/*
+!public/static/CNAME
 yarn-error.log
 
 # editors
@@ -70,4 +71,3 @@ yarn-error.log
 
 # other
 report/
-
