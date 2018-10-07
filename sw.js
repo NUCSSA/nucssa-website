@@ -26,24 +26,24 @@ workbox.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-d6560981c82f7facb07b.js"
+    "url": "webpack-runtime-40c99c2b476dc6c24251.js"
   },
   {
-    "url": "app.96666552073709299e67.css"
+    "url": "app.91de7972fd8a50314137.css"
   },
   {
-    "url": "app-68d789411dce61618b59.js"
+    "url": "app-5b6b595d04831c799b2d.js"
   },
   {
     "url": "component---node-modules-gatsby-plugin-offline-app-shell-js-1afe0b65e568eea633f9.js"
   },
   {
     "url": "index.html",
-    "revision": "7a8a5b96a4fe7f9d05292b92b868c311"
+    "revision": "7ae3900c568b68441eb902a79fe04f7b"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "21254b07d8b0b347f079a51a472cf3b2"
+    "revision": "4ab967bed887c82eb0e3802f0db49c8e"
   },
   {
     "url": "component---src-pages-index-js-ab6b1ccabad9f91a8f5e.js"
@@ -52,8 +52,8 @@ self.__precacheManifest = [
     "url": "9-1518cc5da9040d157f11.js"
   },
   {
-    "url": "static/d/787/path---index-6a9-vaGodYesyTtDbXCxde4OrjMYI.json",
-    "revision": "f4293f9e6609bf6843fd2b6c681fe39a"
+    "url": "static/d/737/path---index-6a9-olXkJz7L5uqfiT0XDnrhRJFvn1E.json",
+    "revision": "a1226616ffc78f347bc888ccc4795ac8"
   },
   {
     "url": "component---src-pages-404-js-1510c86b5188e75a4e39.js"
@@ -74,7 +74,7 @@ self.__precacheManifest = [
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/offline-plugin-app-shell-fallback/index.html", {
+workbox.routing.registerNavigationRoute("/nucssa-website/offline-plugin-app-shell-fallback/index.html", {
   whitelist: [/^[^?]*([^.?]{5}|\.html)(\?.*)?$/],
   blacklist: [/\?(.+&)?no-cache=1$/],
 });
