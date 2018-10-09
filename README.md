@@ -38,7 +38,7 @@ To confirm that you have npm installed you can run this command in your terminal
 npm -v
 ```
 
-3. Install Gatsby CLI. 
+3. Install Gatsby CLI:
 
 ```
 npm install --global gatsby-cli
@@ -48,7 +48,7 @@ npm install --global gatsby-cli
 
 For more information about preparing your environment, 
 check out the [preparing your environment](https://www.gatsbyjs.org/docs/preparing-your-environment/) page 
-or [set up tutorial](https://www.gatsbyjs.org/tutorial/part-zero/)on Gatsby official website.
+or [set up tutorial](https://www.gatsbyjs.org/tutorial/part-zero/) on Gatsby official website.
 
 ### Getting started
 
@@ -78,7 +78,7 @@ gatsby develop
 After running this command, you should be able to see the website on
 http://localhost:8000.
 
-#### Other useful commands:
+#### Other useful commands
 
 Build: to create static site ready to host (under /public).
 ```text
@@ -92,12 +92,12 @@ yarn run deploy
 For more information about Using Gatsby CLI and how to start, please read 
 their [full documentations](https://www.gatsbyjs.org/docs/).
 
-## Features:
+## Features
 
 - Easy editable content in **Markdown** files (posts, pages and parts)
 
 
-### Useful links
+## Useful links
 - [Gatsby](https://www.gatsbyjs.org)
 - [Yarn](https://yarnpkg.com/zh-Hans/)
 - [GatsbyJS Hero](https://github.com/greglobinski/gatsby-starter-hero-blog)
@@ -105,8 +105,8 @@ their [full documentations](https://www.gatsbyjs.org/docs/).
 - [GraphQL](https://graphql.org/)
 - [Git](https://git-scm.com/)
 
-### Useful tools
-[Webstorm](https://www.jetbrains.com/webstorm/) \
-[Visual Studio Code](https://code.visualstudio.com/) \
-[Markdown Editor](https://stackedit.io/app)
+## Useful tools
+- [Webstorm](https://www.jetbrains.com/webstorm/) \
+- [Visual Studio Code](https://code.visualstudio.com/) \
+- [Markdown Editor](https://stackedit.io/app)
 
