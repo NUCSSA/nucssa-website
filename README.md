@@ -46,31 +46,51 @@ npm install --global gatsby-cli
 
 4. Install Yarn. Detailed steps are provided [here](https://yarnpkg.com/lang/en/docs/install)
 
-For more information about preparing your environment, check out the [preparing your environment](https://www.gatsbyjs.org/docs/preparing-your-environment/) page on Gatsby official website.
+For more information about preparing your environment, 
+check out the [preparing your environment](https://www.gatsbyjs.org/docs/preparing-your-environment/) page 
+or [set up tutorial](https://www.gatsbyjs.org/tutorial/part-zero/)on Gatsby official website.
 
 ### Getting started
 
-- Install: to install necessary libraries
+The first step to run NUCSSA website locally is downloading the code by cloning the repository:
+```
+git@github.com:NUCSSA/nucssa-website.git
+```
+If you get Permission denied error using ssh refer [here](https://help.github.com/articles/error-permission-denied-publickey/) 
+or use https link as a fallback:
+```
+https://github.com/NUCSSA/nucssa-website.git
+```
+Go to nucssa-website folder:
+```
+cd nucssa-website
+```
+Install: to install necessary libraries:
 ```text
 yarn install
 ```
-
-- Build: to create static site ready to host (under /public).
-```text
-gatsby build
-```
-
-- Develop: to hot-serve your website on http://localhost:8000
+Develop: to hot-serve your website on http://localhost:8000
 
 ```text
 gatsby develop
 ```
 
-- Deploy: to deploy new changes to [Github Pages](https://nucssa.github.io/nucssa-website/)
+After running this command, you should be able to see the website on
+http://localhost:8000.
+
+####Other useful commands:
+
+Build: to create static site ready to host (under /public).
+```text
+gatsby build
+```
+
+Deploy: to deploy new changes to [Github Pages](https://nucssa.github.io/nucssa-website/)
 ```text
 yarn run deploy
 ```
-For more information about Using Gatsby CLI and how to start, please read get
+For more information about Using Gatsby CLI and how to start, please read 
+their [full documentations](https://www.gatsbyjs.org/docs/).
 
 ## Features:
 
