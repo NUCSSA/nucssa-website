@@ -78,7 +78,7 @@ gatsby develop
 After running this command, you should be able to see the website on
 http://localhost:8000.
 
-####Other useful commands:
+#### Other useful commands:
 
 Build: to create static site ready to host (under /public).
 ```text
