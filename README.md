@@ -1,27 +1,45 @@
 # NUCSSA-website
 
-Website build from [GatsbyJS blog starter](https://dev.greglobinski.com/gatsby-starter-hero-blog/) <br /><br />
+This is the website for NUCSSA.
 
-## Description
+## Installation Guide
 
-TODO:
+### Preparing your environment
 
-## Features:
+To get started with Gatsby, you’ll need to make sure you have the following software tools installed:
 
-- Easy editable content in **Markdown** files (posts, pages and parts)
+- [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+- [Node.js](https://nodejs.org/en/)
+- [npm CLI](https://www.npmjs.com/)
+- Gatsby CLI
+- [yarn CLI](https://yarnpkg.com/en/)
 
+### Step By Step Guide
 
-## Prerequisites
+1. Install Git by following the [official guide](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
 
-- If you do not have Gatsby Cli installed yet, do it first. More information on [GatsbyJS.org](https://www.gatsbyjs.org/tutorial/part-one)
+2. Install Node and npm [here](https://nodejs.org/en/). \
+To check if you have Node.js installed, run this command on your terminal:
+```
+node -v
+```
+To confirm that you have npm installed you can run this command in your terminal:
 
-```text
+```
+npm -v
+```
+
+3. Install Gatsby CLI. 
+
+```
 npm install --global gatsby-cli
 ```
 
-- Yarn installed. More information on [yarn](https://yarnpkg.com/en/)
+4. Install Yarn. Detailed steps are provided [here](https://yarnpkg.com/lang/en/docs/install)
 
-## Getting started
+For more information about preparing your environment, check out the [preparing your environment](https://www.gatsbyjs.org/docs/preparing-your-environment/) page on Gatsby official website.
+
+### Getting started
 
 - Install: to install necessary libraries
 ```text
@@ -43,9 +61,23 @@ gatsby develop
 ```text
 yarn run deploy
 ```
+For more information about Using Gatsby CLI and how to start, please read get
+
+## Features:
+
+- Easy editable content in **Markdown** files (posts, pages and parts)
+
 
 ### Useful links
-TODO:
-- Gatsby
-- Yarn
-- GatsbyJS blog starter
+- [Gatsby](https://www.gatsbyjs.org)
+- [Yarn](https://yarnpkg.com/zh-Hans/)
+- [GatsbyJS Hero](https://github.com/greglobinski/gatsby-starter-hero-blog)
+- [React](https://reactjs.org/)
+- [GraphQL](https://graphql.org/)
+- [Git](https://git-scm.com/)
+
+### Useful tools
+[Webstorm](https://www.jetbrains.com/webstorm/) \
+[Visual Studio Code](https://code.visualstudio.com/) \
+[Markdown Editor](https://stackedit.io/app)
+
