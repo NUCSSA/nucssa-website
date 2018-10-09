@@ -4,6 +4,15 @@ This is the website for NUCSSA.
 
 ## Installation Guide
 
+### For Beginners
+Note that it is not required to have these skills,
+tutorial provided in this README should be sufficient enough for you to set up this website. 
+But it is highly recommended(and very helpful) for 
+you to: 
+- Learn some **basic** knowledge of how to use terminal and command lines.
+- Learn some **basic** knowledge of git and git commands.
+- Have some basic ideas of how web development works.
+
 ### Preparing your environment
 
 To get started with Gatsby, you’ll need to make sure you have the following software tools installed:
