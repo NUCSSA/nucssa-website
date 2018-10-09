@@ -106,7 +106,7 @@ their [full documentations](https://www.gatsbyjs.org/docs/).
 - [Git](https://git-scm.com/)
 
 ## Useful tools
-- [Webstorm](https://www.jetbrains.com/webstorm/) \
-- [Visual Studio Code](https://code.visualstudio.com/) \
+- [Webstorm](https://www.jetbrains.com/webstorm/) 
+- [Visual Studio Code](https://code.visualstudio.com/) 
 - [Markdown Editor](https://stackedit.io/app)
 
