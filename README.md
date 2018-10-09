@@ -28,7 +28,7 @@ To get started with Gatsby, you’ll need to make sure you have the following so
 1. Install Git by following the [official guide](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
 
 2. Install Node and npm [here](https://nodejs.org/en/). \
-To check if you have Node.js installed, run this command on your terminal:
+To check if you have Node.js installed, run this command in your terminal:
 ```
 node -v
 ```
