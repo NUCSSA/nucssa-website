@@ -3,7 +3,7 @@ module.exports = {
   shortSiteTitle: "NUCSSA", // <title> ending for posts and pages
   siteDescription: "NUCSSA, welcome.",
   siteUrl: "https://nucssa.github.io",
-  pathPrefix: `/nucssa-website`,
+  pathPrefix: `/`,
   siteImage: "preview.jpg",
   siteLanguage: "en",
   // author
