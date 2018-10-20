@@ -5,7 +5,8 @@ import Item from "./Item";
 import { Grid, Row, Col } from "react-bootstrap";
 
 const Blog = props => {
-  const { posts, theme } = props;
+  const { posts, theme, navBlocks } = props;
+  console.log(navBlocks)
   const size = 4; // Number of items in a row
   const rows = _.chunk(posts, size);
   return (
@@ -76,7 +77,8 @@ const Blog = props => {
 
 Blog.propTypes = {
   posts: PropTypes.array.isRequired,
-  theme: PropTypes.object.isRequired
+  theme: PropTypes.object.isRequired,
+  navBlocks: PropTypes.array.isRequired,
 };
 
 export default Blog;

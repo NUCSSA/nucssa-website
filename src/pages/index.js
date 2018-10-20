@@ -16,6 +16,7 @@ class IndexPage extends React.Component {
     const {
       data: {
         posts: { edges: posts = [] },
+        navBlocks: { edges: navBlocks = []},
         bgDesktop: {
           resize: { src: desktop }
         },
@@ -27,7 +28,6 @@ class IndexPage extends React.Component {
         }
       }
     } = this.props;
-
     const backgrounds = {
       desktop,
       tablet,
@@ -45,7 +45,7 @@ class IndexPage extends React.Component {
         <hr ref={this.separator} />
 
         <ThemeContext.Consumer>
-          {theme => <Blog posts={posts} theme={theme} />}
+          {theme => <Blog posts={posts} navBlocks={navBlocks} theme={theme} />}
         </ThemeContext.Consumer>
         <style jsx>{`
           hr {
@@ -69,6 +69,35 @@ export const query = graphql`
   query IndexQuery {
     posts: allMarkdownRemark(
       filter: { fileAbsolutePath: { regex: "//posts/[0-9]+.*--/" } }
+      sort: { fields: [fields___prefix], order: DESC }
+    ) {
+      edges {
+        node {
+          excerpt
+          fields {
+            slug
+            prefix
+          }
+          frontmatter {
+            title
+            category
+            link
+            author
+            cover {
+              children {
+                ... on ImageSharp {
+                  fluid(maxWidth: 800, maxHeight: 360) {
+                    ...GatsbyImageSharpFluid_withWebp
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+    navBlocks: allMarkdownRemark(
+      filter: { fileAbsolutePath: { regex: "//nav_blocks/*/" } }
       sort: { fields: [fields___prefix], order: DESC }
     ) {
       edges {
