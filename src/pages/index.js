@@ -109,9 +109,7 @@ export const query = graphql`
           }
           frontmatter {
             title
-            category
             link
-            author
             cover {
               children {
                 ... on ImageSharp {

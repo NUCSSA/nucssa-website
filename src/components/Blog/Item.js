@@ -10,6 +10,7 @@ import React from "react";
 const Item = props => {
   const {
     theme,
+    isPost,
     post: {
       excerpt,
       fields: { slug, prefix },
@@ -42,13 +43,17 @@ const Item = props => {
             {title} <FaArrowRight className="arrow" />
           </h1>
           <p className="meta">
-            <span>
-              <FaCalendar size={18} /> {prefix}
-            </span>
+            {isPost && (
+              <span>
+                <FaCalendar size={18} /> {prefix}
+              </span>
+            )}
+            {isPost && (
             <span>
               <FaUser size={18} /> {author}
             </span>
-            {category && (
+            )}
+            {isPost && category && (
               <span>
                 <FaTag size={18} /> {category}
               </span>
@@ -250,7 +255,8 @@ const Item = props => {
 
 Item.propTypes = {
   post: PropTypes.object.isRequired,
-  theme: PropTypes.object.isRequired
+  theme: PropTypes.object.isRequired,
+  isPost: PropTypes.bool.isRequired,
 };
 
 export default Item;

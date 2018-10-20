@@ -6,9 +6,9 @@ import { Grid, Row, Col } from "react-bootstrap";
 
 const Blog = props => {
   const { posts, theme, navBlocks } = props;
-  console.log(navBlocks)
-  const size = 4; // Number of items in a row
+  const size = 3; // Number of items in a row
   const rows = _.chunk(posts, size);
+  const navRows = _.chunk(navBlocks, size)
   return (
     <React.Fragment>
       <main className="main">
@@ -25,7 +25,25 @@ const Blog = props => {
                 } = post;
                 return (
                   <Col key={slug} sm={6} md={4}>
-                    <Item post={node} theme={theme} />
+                    <Item post={node} theme={theme} isPost={true} />
+                  </Col>
+                );
+              });
+              return <div key={index}>{itemList}</div>;
+            })}
+          </Row>
+          <Row>
+            {_.map(navRows, (row, index) => {
+              const itemList = _.map(row, navBlocks => {
+                const {
+                  node,
+                  node: {
+                    fields: { slug }
+                  }
+                } = navBlocks;
+                return (
+                  <Col key={slug} sm={6} md={4}>
+                    <Item post={node} theme={theme} isPost={false} />
                   </Col>
                 );
               });
