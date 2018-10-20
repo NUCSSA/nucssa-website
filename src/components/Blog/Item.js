@@ -59,7 +59,7 @@ const Item = props => {
               </span>
             )}
           </p>
-          <p>{excerpt}</p>
+          {isPost && <p>{excerpt}</p>}
         </Link>
       </li>
 
