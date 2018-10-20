@@ -3,6 +3,7 @@ import FontFaceObserver from "fontfaceobserver";
 import PropTypes from "prop-types";
 import React from "react";
 import { graphql, StaticQuery } from "gatsby";
+import _ from "lodash";
 
 import { getScreenWidth, timeoutThrottlerHandler } from "../utils/helpers";
 import Footer from "../components/Footer/";
@@ -101,14 +102,43 @@ class Layout extends React.Component {
               id
               html
             }
+            jsPages: allSitePage(
+              filter: { componentPath: { regex: "/pages/" }, jsonName: { regex: "/^\\d-\\w*/" } },
+              sort: { fields: [path], order: ASC }
+            ) {
+              totalCount
+              edges {
+                node {
+                  path
+                }
+              }
+	}
           }
         `}
         render={data => {
           const { children } = this.props;
-          const {
+          console.log(data);
+          let {
             footnote: { html: footnoteHTML },
-            pages: { edges: pages }
+            pages: { edges: markdownPages },
+            jsPages: { edges: jsPages, totalCount: jsPagesCount }
           } = data;
+          console.log(jsPagesCount); //page.node.path
+          //_.split('a-b-c', '--', 2);
+          jsPages = jsPages.map(page => ({
+            node: {
+              fields: {
+                slug: page.node.path,
+                prefix: _.split(page.node.path, "--", 2)[0]
+              },
+              frontmatter: {
+                title: _.split(page.node.path, "--", 2)[1]
+              }
+            }
+          }));
+          //TODO: move all except menu pages into sub folder, query on allSitePage
+          //TODO: sort by number before --navName
+          const pages = _.concat(markdownPages, jsPages);
 
           return (
             <ThemeContext.Provider value={this.state.theme}>
