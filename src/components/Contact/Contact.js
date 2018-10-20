@@ -27,7 +27,7 @@ const Contact = props => {
     e.preventDefault();
     props.form.validateFields((err, values) => {
       if (!err) {
-        console.log("Received values of form: ", values);
+        // console.log("Received values of form: ", values);
         sendMessage(values);
       }
     });
@@ -40,7 +40,7 @@ const Contact = props => {
       body: encode({ "form-name": "contact", ...values })
     })
       .then(() => {
-        console.log("Form submission success");
+        // console.log("Form submission success");
         navigate("/success");
       })
       .catch(error => {
