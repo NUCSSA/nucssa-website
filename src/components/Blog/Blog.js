@@ -8,6 +8,7 @@ const Blog = props => {
   const { posts, theme, navBlocks } = props;
   const size = 3; // Number of items in a row
   const rows = _.chunk(posts, size);
+  const first_three_posts = rows[0];
   const navRows = _.chunk(navBlocks, size)
   return (
     <React.Fragment>
@@ -15,20 +16,18 @@ const Blog = props => {
         {/*<ul>*/}
         <Grid>
           <Row>
-            {_.map(rows, (row, index) => {
-              const itemList = _.map(row, post => {
-                const {
-                  node,
-                  node: {
-                    fields: { slug }
-                  }
-                } = post;
-                return (
-                  <Col key={slug} sm={6} md={4}>
-                    <Item post={node} theme={theme} isPost={true} />
-                  </Col>
-                );
-              });
+            {_.map(first_three_posts, (post, index) => {
+              const {
+                node,
+                node: {
+                  fields: { slug }
+                }
+              } = post;
+              return (
+                <Col key={slug} sm={6} md={4}>
+                  <Item post={node} theme={theme} isPost={true} />
+                </Col>
+              );
               return <div key={index}>{itemList}</div>;
             })}
           </Row>
