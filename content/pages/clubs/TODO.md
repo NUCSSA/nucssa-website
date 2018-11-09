@@ -1,1 +1,0 @@
-- Template for club posts 
