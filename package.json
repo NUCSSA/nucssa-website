@@ -3,6 +3,17 @@
   "version": "2.0.0",
   "author": "Greg Lobinski <greglobinski@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "build": "rm -rf public && gatsby build",
+    "develop": "gatsby develop",
+    "devhost": "gatsby develop --host 192.168.0.112",
+    "format": "prettier --write 'src/**/*.js'",
+    "lint-errors": "eslint src/**/*.{js,jsx} --quiet",
+    "lint": "eslint src/**/*.{js,jsx}",
+    "stylelint": "stylelint src/**/*.js",
+    "generate-app-icons": "sh ./scripts/generate-app-icons.sh",
+    "deploy": "./node_modules/.bin/gh-pages -d public"
+  },
   "dependencies": {
     "antd": "^3.7.0",
     "axios": "^0.18.0",
@@ -58,17 +69,6 @@
   "keywords": [
     "gatsby"
   ],
-  "scripts": {
-    "build": "rm -rf public && gatsby build",
-    "develop": "gatsby develop",
-    "devhost": "gatsby develop --host 192.168.0.112",
-    "format": "prettier --write 'src/**/*.js'",
-    "lint-errors": "eslint src/**/*.{js,jsx} --quiet",
-    "lint": "eslint src/**/*.{js,jsx}",
-    "stylelint": "stylelint src/**/*.js",
-    "generate-app-icons": "sh ./scripts/generate-app-icons.sh",
-    "deploy": "./node_modules/.bin/gh-pages -d public"
-  },
   "devDependencies": {
     "@mapbox/stylelint-processor-arbitrary-tags": "^0.2.0",
     "babel-eslint": "^8.2.6",

@@ -1,5 +1,6 @@
 module.exports = {
-  siteTitle: "NUCSSA", // <title>
+  siteTitle: "NUCSSA 美国东北大学中国学生会", // <title>
+  siteShortTitle: "NUCSSA 美国东北大学中国学生会", // <title>
   shortSiteTitle: "NUCSSA", // <title> ending for posts and pages
   siteDescription: "NUCSSA, welcome.",
   siteUrl: "https://nucssa.github.io",
@@ -21,8 +22,8 @@ module.exports = {
   manifestDisplay: "standalone",
   // social
   authorSocialLinks: [
-    { name: "github", url: "https://github.com/greglobinski" },
-    { name: "twitter", url: "https://twitter.com/greglobinski" },
-    { name: "facebook", url: "http://facebook.com/greglobinski" }
+    { name: "github", url: "https://github.com/nucssa" },
+    // { name: "twitter", url: "https://twitter.com/nucssa" },
+    { name: "facebook", url: "https://www.facebook.com/nucssa.nucssa" }
   ]
 };
