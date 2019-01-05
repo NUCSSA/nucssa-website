@@ -3,6 +3,7 @@ title: Forms 报名
 menuTitle: Forms 报名
 ---
 
+- ### [2019春季新生宣讲会](https://wj.qq.com/s2/3052000/88fd/)
 - ### [2018年秋季美国东北大学招聘会报名表](https://wj.qq.com/s/2786288/cd45)
 - ### [2018年秋季美国东北大学春晚报名表](https://wj.qq.com/s2/2991819/57ba)
 
