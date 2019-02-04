@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{300:function(e,n,a){"use strict";a.r(n);var t=a(0),c=a.n(t);n.default=function(){return c.a.createElement("div",{className:"container"},c.a.createElement("h1",null,"加载中..."),c.a.createElement("h1",null,"Loading..."))}}}]);
-//# sourceMappingURL=component---src-pages-loading-js-32f95b89d89467ce3989.js.map
