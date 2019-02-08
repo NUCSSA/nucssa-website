@@ -2,6 +2,14 @@
 title: Posts 活动
 menuTitle: Posts 活动
 ---
+- ### [【活动】一站到底--这件事告诉我，这么多年书没白读……](https://mp.weixin.qq.com/s/GTwiFDPIUVoEzYG8zzKfDA)
+
+- ### [【爱你一周】来自“平行宇宙”的邀请](https://mp.weixin.qq.com/s/PeodInbRTuG229Ayzhkb7w)
+
+- ### [【校友会】校友集结令！对未来感到迷茫？让他们做你的引路人！](https://mp.weixin.qq.com/s/ak60hIo5i9ZBBh_AH2mGZA)
+
+- ### [【春晚】今夜在此，一起团圆（内附节目单)](https://mp.weixin.qq.com/s/UG8d5CapmMPtwaRP9dcPyw)
+
 - ### [【春晚】今年，是你第几个不能在家过的年了？春晚花絮暖心出炉!](https://mp.weixin.qq.com/s?__biz=MjM5MDA2NDY3Mg==&mid=2653023782&idx=1&sn=8a6db8e09aacbaf8a915f5d648fb3fab&chksm=bd9fc7698ae84e7f0ed0f41183b911014f0c142cff3e6cd0b848bc364bd03ae5d4e8fa0356bc&mpshare=1&scene=1&srcid=0129KltJafeKhYxPlsYuy3D7#rd)
 
 - ### [【职发】门徒计划](https://mp.weixin.qq.com/s?__biz=MjM5MDA2NDY3Mg==&mid=2653023795&idx=1&sn=986cc35bdca67f38992da3ae88c86568&chksm=bd9fc77c8ae84e6a4a732a58ba3d12f664e44f01f46379a701d93395893be71c0364d9d66794&scene=0&xtrack=1#rd)
