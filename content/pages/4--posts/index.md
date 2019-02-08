@@ -2,6 +2,11 @@
 title: Posts 活动
 menuTitle: Posts 活动
 ---
+
+- ### [【活动】OGS & NUCSSA 春节游园会，就在本周日~](https://mp.weixin.qq.com/s?__biz=MjM5MDA2NDY3Mg==&mid=2653023908&idx=2&sn=0a6840390abea98034caf386260c62dd&chksm=bd9fc7eb8ae84efde69a2eaf6d80fec6cc0bb11421b6682c0978ef48937516bab0e61574427a&mpshare=1&scene=1&srcid=#rd)
+
+- ### [【活动】茶与电影活动](https://mp.weixin.qq.com/s?__biz=MjM5MDA2NDY3Mg==&mid=2653023899&idx=2&sn=e6cea389a212f556b63819f819c6c036&chksm=bd9fc7d48ae84ec2ddaba3a9cef621b0149d0961e1d5d1122c5cb01a153c836b07426ad9955a&mpshare=1&scene=1&srcid=#rd)
+
 - ### [【春晚】今年，是你第几个不能在家过的年了？春晚花絮暖心出炉!](https://mp.weixin.qq.com/s?__biz=MjM5MDA2NDY3Mg==&mid=2653023782&idx=1&sn=8a6db8e09aacbaf8a915f5d648fb3fab&chksm=bd9fc7698ae84e7f0ed0f41183b911014f0c142cff3e6cd0b848bc364bd03ae5d4e8fa0356bc&mpshare=1&scene=1&srcid=0129KltJafeKhYxPlsYuy3D7#rd)
 
 - ### [【职发】门徒计划](https://mp.weixin.qq.com/s?__biz=MjM5MDA2NDY3Mg==&mid=2653023795&idx=1&sn=986cc35bdca67f38992da3ae88c86568&chksm=bd9fc77c8ae84e6a4a732a58ba3d12f664e44f01f46379a701d93395893be71c0364d9d66794&scene=0&xtrack=1#rd)
