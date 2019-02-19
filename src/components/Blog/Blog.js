@@ -28,7 +28,6 @@ const Blog = props => {
                   <Item post={node} theme={theme} isPost={true} />
                 </Col>
               );
-              return <div key={index}>{itemList}</div>;
             })}
           </Row>
           <Row>
