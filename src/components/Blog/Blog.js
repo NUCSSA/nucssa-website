@@ -6,7 +6,7 @@ import { Grid, Row, Col } from "react-bootstrap";
 
 const Blog = props => {
   const { posts, theme, navBlocks } = props;
-  const size = 3; // Number of items in a row
+  const size = 6; // Number of items in a row
   const rows = _.chunk(posts, size);
   const first_three_posts = rows[0];
   const navRows = _.chunk(navBlocks, size)
