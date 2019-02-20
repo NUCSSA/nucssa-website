@@ -2,6 +2,10 @@
 title: Posts 活动
 menuTitle: Posts 活动
 ---
+- ### [【活动】C位之战，邀你开声](https://mp.weixin.qq.com/s/zOMgEaK_098-mobT5Y9-aw)
+
+- ### [【活动】专题研讨会：中国当代历史古城设计实践](https://mp.weixin.qq.com/s/dCnh-blq06au7yBDD30ZiQ)
+
 - ### [【活动】一站到底--这件事告诉我，这么多年书没白读……](https://mp.weixin.qq.com/s/GTwiFDPIUVoEzYG8zzKfDA)
 
 - ### [【爱你一周】来自“平行宇宙”的邀请](https://mp.weixin.qq.com/s/PeodInbRTuG229Ayzhkb7w)
