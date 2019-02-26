@@ -204,7 +204,6 @@ const Item = props => {
           }
           h1 {
             font-size: 2.2em;
-            // text-align: center;
             height: 3em;
             padding: ${`calc(${theme.space.default} * 1.2) calc(${theme.space.default} * 2) 0`};
           }
