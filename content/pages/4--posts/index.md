@@ -2,6 +2,8 @@
 title: Posts 活动
 menuTitle: Posts 活动
 ---
+- ### [【职发】地球已不再流浪，你的idea离实现还远吗？](https://mp.weixin.qq.com/s/JVEhd3H0xPs2gAZVvVFeew)
+
 - ### [【活动】C位之战，邀你开声](https://mp.weixin.qq.com/s/zOMgEaK_098-mobT5Y9-aw)
 
 - ### [【活动】专题研讨会：中国当代历史古城设计实践](https://mp.weixin.qq.com/s/dCnh-blq06au7yBDD30ZiQ)
