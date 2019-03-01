@@ -2,11 +2,21 @@
 title: Posts 活动
 menuTitle: Posts 活动
 ---
+- ### [【活动】音你而来·人气投票](https://mp.weixin.qq.com/s/fDJrYwLpBGXN_EWrQVRyyg)
+
+- ### [【活动】波村好声音火热来袭](https://mp.weixin.qq.com/s/fDJrYwLpBGXN_EWrQVRyyg)
+
+- ### [【活动】C位之战，邀你开声](https://mp.weixin.qq.com/s/zOMgEaK_098-mobT5Y9-aw)
+
 - ### [【职发】地球已不再流浪，你的idea离实现还远吗？](https://mp.weixin.qq.com/s/JVEhd3H0xPs2gAZVvVFeew)
 
 - ### [【活动】C位之战，邀你开声](https://mp.weixin.qq.com/s/zOMgEaK_098-mobT5Y9-aw)
 
 - ### [【活动】专题研讨会：中国当代历史古城设计实践](https://mp.weixin.qq.com/s/dCnh-blq06au7yBDD30ZiQ)
+
+- ### [【活动】OGS & NUCSSA 春节游园会，就在本周日~](https://mp.weixin.qq.com/s?__biz=MjM5MDA2NDY3Mg==&mid=2653023908&idx=2&sn=0a6840390abea98034caf386260c62dd&chksm=bd9fc7eb8ae84efde69a2eaf6d80fec6cc0bb11421b6682c0978ef48937516bab0e61574427a&mpshare=1&scene=1&srcid=#rd)
+
+- ### [【活动】茶与电影活动](https://mp.weixin.qq.com/s?__biz=MjM5MDA2NDY3Mg==&mid=2653023899&idx=2&sn=e6cea389a212f556b63819f819c6c036&chksm=bd9fc7d48ae84ec2ddaba3a9cef621b0149d0961e1d5d1122c5cb01a153c836b07426ad9955a&mpshare=1&scene=1&srcid=#rd)
 
 - ### [【活动】一站到底--这件事告诉我，这么多年书没白读……](https://mp.weixin.qq.com/s/GTwiFDPIUVoEzYG8zzKfDA)
 
