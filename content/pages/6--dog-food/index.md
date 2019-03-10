@@ -2,6 +2,7 @@
 title: 狗粮专栏
 menuTitle: 狗粮专栏
 ---
+- ### [【狗粮】上帝终于穿上了香奈儿](https://mp.weixin.qq.com/s/t95tqnybNWGWLweJNWHmpQ)
 - ### [【狗粮】本周院线推荐](https://mp.weixin.qq.com/s/jNKF8pXgFFrg33UdExPs3A)
 - ### [狗粮VOL.32 | 说说那些年值得N刷的悬疑烧脑电影！重点推荐4部哦~](https://mp.weixin.qq.com/s/cmsqfvB7JzI18D0vYMy4hw)
 - ### [狗粮VOL.31 | 春晚加超级碗 才算“文体两开花”](https://mp.weixin.qq.com/s/CQ2gKYn26Ll4IhFr1SXgMg)

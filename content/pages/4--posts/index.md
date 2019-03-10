@@ -2,6 +2,12 @@
 title: Posts 活动
 menuTitle: Posts 活动
 ---
+- ### [【新生群】找到组织的最好方法——NUCSSA 2019年新生QQ群](https://mp.weixin.qq.com/s/0mWwIzx_SgWRs1HQQpM2sw)
+
+- ### [【活动】 如何让闺密成为我的私人美甲师](https://mp.weixin.qq.com/s/eQF9VP6hEImOaNT575-wOg)
+
+- ### [【活动】The RED Party IV 赤舞派对](https://mp.weixin.qq.com/s/bCCvj-eOiBZ06csdeNKuTA)
+
 - ### [【活动】音你而来·人气投票](https://mp.weixin.qq.com/s/fDJrYwLpBGXN_EWrQVRyyg)
 
 - ### [【活动】波村好声音火热来袭](https://mp.weixin.qq.com/s/fDJrYwLpBGXN_EWrQVRyyg)
