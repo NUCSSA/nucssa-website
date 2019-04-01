@@ -2,6 +2,8 @@
 title: Posts 活动
 menuTitle: Posts 活动
 ---
+- ### [【活动】长藤凶宅惊魂一刻，三校联合剧本杀等你来！](https://mp.weixin.qq.com/s/nu6PXh4QR1WnUXhrBtVn2A)
+
 - ### [【新生群】找到组织的最好方法——NUCSSA 2019年新生QQ群](https://mp.weixin.qq.com/s/0mWwIzx_SgWRs1HQQpM2sw)
 
 - ### [【活动】 如何让闺密成为我的私人美甲师](https://mp.weixin.qq.com/s/eQF9VP6hEImOaNT575-wOg)
