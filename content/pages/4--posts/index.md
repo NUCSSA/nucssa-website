@@ -2,6 +2,9 @@
 title: Posts 活动
 menuTitle: Posts 活动
 ---
+
+- ### [【活动】长藤凶宅惊魂一刻，三校联合剧本杀等你来！](https://mp.weixin.qq.com/s/nu6PXh4QR1WnUXhrBtVn2A)
+
 - ### [【活动】辊底浪花翻雪，查尔斯河，竞龙舟](https://mp.weixin.qq.com/s/WIh6sTjMByJ_vJPXo_ZpPw)
 
 - ### [【城·视】摄影展 | 告诉我，你眼中的波士顿如何美？](https://mp.weixin.qq.com/s/9rWltUIkdwSeVmBqMFL8lA)

@@ -2,6 +2,9 @@
 title: 狗粮专栏
 menuTitle: 狗粮专栏
 ---
+
+- ### [【狗粮】让残酷与甜美并驾齐驱——血与冰激凌三部曲 ](https://mp.weixin.qq.com/s/0sKg7OUjQpjK1NSujskqpw)
+
 - ### [狗粮Vlog | 抓住冬天的尾巴，你滑雪了吗？](https://mp.weixin.qq.com/s/TGNWHfMSfSMrIHYTPFTwCQ)
 
 - ### [【狗粮】上帝终于穿上了香奈儿](https://mp.weixin.qq.com/s/t95tqnybNWGWLweJNWHmpQ)
